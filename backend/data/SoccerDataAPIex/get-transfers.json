@@ -1,0 +1,1342 @@
+{
+    "id": 4138,
+    "name": "Liverpool",
+    "transfers": {
+        "transfers_in": [
+            {
+                "player_id": 125266,
+                "player_name": "E. Alfaro",
+                "from_team": {
+                    "id": 4371,
+                    "name": "Pune City"
+                },
+                "transfer_date": "25-06-2019",
+                "transfer_type": "n/a",
+                "transfer_amount": 0,
+                "transfer_currency": "usd"
+            },
+            {
+                "player_id": 61820,
+                "player_name": "C. Gakpo",
+                "from_team": {
+                    "id": 3770,
+                    "name": "PSV"
+                },
+                "transfer_date": "01-01-2023",
+                "transfer_type": "transfer-fee",
+                "transfer_amount": 50000000,
+                "transfer_currency": "eur"
+            },
+            {
+                "player_id": 113341,
+                "player_name": "M. Woltman",
+                "from_team": {
+                    "id": 4166,
+                    "name": "Doncaster Rovers"
+                },
+                "transfer_date": "16-01-2023",
+                "transfer_type": "n/a",
+                "transfer_amount": 0,
+                "transfer_currency": "usd"
+            },
+            {
+                "player_id": 114167,
+                "player_name": "J. Balagizi",
+                "from_team": {
+                    "id": 4191,
+                    "name": "Crawley Town"
+                },
+                "transfer_date": "20-01-2023",
+                "transfer_type": "n/a",
+                "transfer_amount": 0,
+                "transfer_currency": "usd"
+            },
+            {
+                "player_id": 27486,
+                "player_name": "R. Williams",
+                "from_team": {
+                    "id": 3309,
+                    "name": "Blackpool"
+                },
+                "transfer_date": "23-01-2023",
+                "transfer_type": "n/a",
+                "transfer_amount": 0,
+                "transfer_currency": "usd"
+            },
+            {
+                "player_id": 27537,
+                "player_name": "L. Clarkson",
+                "from_team": {
+                    "id": 2717,
+                    "name": "Aberdeen"
+                },
+                "transfer_date": "14-06-2023",
+                "transfer_type": "n/a",
+                "transfer_amount": 0,
+                "transfer_currency": "usd"
+            },
+            {
+                "player_id": 61790,
+                "player_name": "A. Mac Allister",
+                "from_team": {
+                    "id": 3200,
+                    "name": "Brighton & Hove Albion"
+                },
+                "transfer_date": "14-06-2023",
+                "transfer_type": "transfer-fee",
+                "transfer_amount": 42000000,
+                "transfer_currency": "eur"
+            },
+            {
+                "player_id": 61806,
+                "player_name": "T. Morton",
+                "from_team": {
+                    "id": 2908,
+                    "name": "Blackburn Rovers"
+                },
+                "transfer_date": "01-07-2023",
+                "transfer_type": "n/a",
+                "transfer_amount": 0,
+                "transfer_currency": "usd"
+            },
+            {
+                "player_id": 41062,
+                "player_name": "S. van den Berg",
+                "from_team": {
+                    "id": 4275,
+                    "name": "Schalke 04"
+                },
+                "transfer_date": "01-07-2023",
+                "transfer_type": "n/a",
+                "transfer_amount": 0,
+                "transfer_currency": "usd"
+            },
+            {
+                "player_id": 61788,
+                "player_name": "D. Szoboszlai",
+                "from_team": {
+                    "id": 3292,
+                    "name": "RB Leipzig"
+                },
+                "transfer_date": "02-07-2023",
+                "transfer_type": "transfer-fee",
+                "transfer_amount": 70000000,
+                "transfer_currency": "eur"
+            },
+            {
+                "player_id": 65643,
+                "player_name": "W. Endo",
+                "from_team": {
+                    "id": 4276,
+                    "name": "Stuttgart"
+                },
+                "transfer_date": "18-08-2023",
+                "transfer_type": "n/a",
+                "transfer_amount": 0,
+                "transfer_currency": "usd"
+            },
+            {
+                "player_id": 65438,
+                "player_name": "R. Gravenberch",
+                "from_team": {
+                    "id": 4270,
+                    "name": "Bayern Munich"
+                },
+                "transfer_date": "01-09-2023",
+                "transfer_type": "transfer-fee",
+                "transfer_amount": 18500000,
+                "transfer_currency": "eur"
+            },
+            {
+                "player_id": 47081,
+                "player_name": "Fábio Carvalho",
+                "from_team": {
+                    "id": 3292,
+                    "name": "RB Leipzig"
+                },
+                "transfer_date": "01-01-2024",
+                "transfer_type": "n/a",
+                "transfer_amount": 0,
+                "transfer_currency": "usd"
+            },
+            {
+                "player_id": 61766,
+                "player_name": "N. Phillips",
+                "from_team": {
+                    "id": 2827,
+                    "name": "Celtic"
+                },
+                "transfer_date": "03-01-2024",
+                "transfer_type": "n/a",
+                "transfer_amount": 0,
+                "transfer_currency": "usd"
+            },
+            {
+                "player_id": 27486,
+                "player_name": "R. Williams",
+                "from_team": {
+                    "id": 2717,
+                    "name": "Aberdeen"
+                },
+                "transfer_date": "04-01-2024",
+                "transfer_type": "n/a",
+                "transfer_amount": 0,
+                "transfer_currency": "usd"
+            },
+            {
+                "player_id": 62311,
+                "player_name": "C. Ramsay",
+                "from_team": {
+                    "id": 4154,
+                    "name": "Preston North End"
+                },
+                "transfer_date": "15-01-2024",
+                "transfer_type": "n/a",
+                "transfer_amount": 0,
+                "transfer_currency": "usd"
+            },
+            {
+                "player_id": 27486,
+                "player_name": "R. Williams",
+                "from_team": {
+                    "id": 4184,
+                    "name": "Port Vale"
+                },
+                "transfer_date": "01-02-2024",
+                "transfer_type": "n/a",
+                "transfer_amount": 0,
+                "transfer_currency": "usd"
+            },
+            {
+                "player_id": 199725,
+                "player_name": "Luca Stephenson",
+                "from_team": {
+                    "id": 4197,
+                    "name": "Barrow"
+                },
+                "transfer_date": "11-05-2024",
+                "transfer_type": "n/a",
+                "transfer_amount": 0,
+                "transfer_currency": "usd"
+            },
+            {
+                "player_id": 100733,
+                "player_name": "J. Norris",
+                "from_team": {
+                    "id": 4179,
+                    "name": "Tranmere Rovers"
+                },
+                "transfer_date": "11-05-2024",
+                "transfer_type": "n/a",
+                "transfer_amount": 0,
+                "transfer_currency": "usd"
+            },
+            {
+                "player_id": 27486,
+                "player_name": "R. Williams",
+                "from_team": {
+                    "id": 4184,
+                    "name": "Port Vale"
+                },
+                "transfer_date": "01-06-2024",
+                "transfer_type": "n/a",
+                "transfer_amount": 0,
+                "transfer_currency": "usd"
+            },
+            {
+                "player_id": 114167,
+                "player_name": "J. Balagizi",
+                "from_team": {
+                    "id": 4808,
+                    "name": "Kilmarnock"
+                },
+                "transfer_date": "01-06-2024",
+                "transfer_type": "n/a",
+                "transfer_amount": 0,
+                "transfer_currency": "usd"
+            },
+            {
+                "player_id": 62311,
+                "player_name": "C. Ramsay",
+                "from_team": {
+                    "id": 4154,
+                    "name": "Preston North End"
+                },
+                "transfer_date": "01-06-2024",
+                "transfer_type": "n/a",
+                "transfer_amount": 0,
+                "transfer_currency": "usd"
+            },
+            {
+                "player_id": 61714,
+                "player_name": "Marcelo",
+                "from_team": {
+                    "id": 3407,
+                    "name": "Livingston"
+                },
+                "transfer_date": "01-06-2024",
+                "transfer_type": "n/a",
+                "transfer_amount": 0,
+                "transfer_currency": "usd"
+            },
+            {
+                "player_id": 47081,
+                "player_name": "Fábio Carvalho",
+                "from_team": {
+                    "id": 4153,
+                    "name": "Hull City"
+                },
+                "transfer_date": "01-06-2024",
+                "transfer_type": "n/a",
+                "transfer_amount": 0,
+                "transfer_currency": "usd"
+            },
+            {
+                "player_id": 62311,
+                "player_name": "C. Ramsay",
+                "from_team": {
+                    "id": 4156,
+                    "name": "Bolton Wanderers"
+                },
+                "transfer_date": "01-06-2024",
+                "transfer_type": "n/a",
+                "transfer_amount": 0,
+                "transfer_currency": "usd"
+            },
+            {
+                "player_id": 41062,
+                "player_name": "S. van den Berg",
+                "from_team": {
+                    "id": 3003,
+                    "name": "Mainz"
+                },
+                "transfer_date": "30-06-2024",
+                "transfer_type": "n/a",
+                "transfer_amount": 0,
+                "transfer_currency": "usd"
+            },
+            {
+                "player_id": 61714,
+                "player_name": "Marcelo",
+                "from_team": {
+                    "id": 3428,
+                    "name": "St Patrick's Athletic"
+                },
+                "transfer_date": "01-07-2024",
+                "transfer_type": "n/a",
+                "transfer_amount": 0,
+                "transfer_currency": "usd"
+            },
+            {
+                "player_id": 61766,
+                "player_name": "N. Phillips",
+                "from_team": {
+                    "id": 3285,
+                    "name": "Cardiff City"
+                },
+                "transfer_date": "01-07-2024",
+                "transfer_type": "n/a",
+                "transfer_amount": 0,
+                "transfer_currency": "usd"
+            },
+            {
+                "player_id": 114167,
+                "player_name": "J. Balagizi",
+                "from_team": {
+                    "id": 4808,
+                    "name": "Kilmarnock"
+                },
+                "transfer_date": "01-07-2024",
+                "transfer_type": "n/a",
+                "transfer_amount": 0,
+                "transfer_currency": "usd"
+            },
+            {
+                "player_id": 27486,
+                "player_name": "R. Williams",
+                "from_team": {
+                    "id": 2717,
+                    "name": "Aberdeen"
+                },
+                "transfer_date": "01-07-2024",
+                "transfer_type": "n/a",
+                "transfer_amount": 0,
+                "transfer_currency": "usd"
+            },
+            {
+                "player_id": 47081,
+                "player_name": "Fábio Carvalho",
+                "from_team": {
+                    "id": 3292,
+                    "name": "RB Leipzig"
+                },
+                "transfer_date": "01-07-2024",
+                "transfer_type": "n/a",
+                "transfer_amount": 0,
+                "transfer_currency": "usd"
+            },
+            {
+                "player_id": 100733,
+                "player_name": "J. Norris",
+                "from_team": {
+                    "id": 4179,
+                    "name": "Tranmere Rovers"
+                },
+                "transfer_date": "01-07-2024",
+                "transfer_type": "n/a",
+                "transfer_amount": 0,
+                "transfer_currency": "usd"
+            },
+            {
+                "player_id": 63067,
+                "player_name": "H. Davies",
+                "from_team": {
+                    "id": 4180,
+                    "name": "Crewe Alexandra"
+                },
+                "transfer_date": "01-07-2024",
+                "transfer_type": "n/a",
+                "transfer_amount": 0,
+                "transfer_currency": "usd"
+            },
+            {
+                "player_id": 199725,
+                "player_name": "Luca Stephenson",
+                "from_team": {
+                    "id": 4197,
+                    "name": "Barrow"
+                },
+                "transfer_date": "01-07-2024",
+                "transfer_type": "n/a",
+                "transfer_amount": 0,
+                "transfer_currency": "usd"
+            },
+            {
+                "player_id": 114167,
+                "player_name": "J. Balagizi",
+                "from_team": {
+                    "id": 3320,
+                    "name": "Wigan Athletic"
+                },
+                "transfer_date": "01-07-2024",
+                "transfer_type": "n/a",
+                "transfer_amount": 0,
+                "transfer_currency": "usd"
+            },
+            {
+                "player_id": 61718,
+                "player_name": "V. Jaroš",
+                "from_team": {
+                    "id": 3880,
+                    "name": "Sturm Graz"
+                },
+                "transfer_date": "01-07-2024",
+                "transfer_type": "n/a",
+                "transfer_amount": 0,
+                "transfer_currency": "usd"
+            },
+            {
+                "player_id": 100691,
+                "player_name": "L. Chambers",
+                "from_team": {
+                    "id": 3320,
+                    "name": "Wigan Athletic"
+                },
+                "transfer_date": "01-07-2024",
+                "transfer_type": "n/a",
+                "transfer_amount": 0,
+                "transfer_currency": "usd"
+            },
+            {
+                "player_id": 41062,
+                "player_name": "S. van den Berg",
+                "from_team": {
+                    "id": 3003,
+                    "name": "Mainz"
+                },
+                "transfer_date": "01-07-2024",
+                "transfer_type": "n/a",
+                "transfer_amount": 0,
+                "transfer_currency": "usd"
+            },
+            {
+                "player_id": 82394,
+                "player_name": "G. Mamardashvili",
+                "from_team": {
+                    "id": 4890,
+                    "name": "Valencia"
+                },
+                "transfer_date": "27-08-2024",
+                "transfer_type": "transfer-fee",
+                "transfer_amount": 30000000,
+                "transfer_currency": "eur"
+            },
+            {
+                "player_id": 69078,
+                "player_name": "F. Chiesa",
+                "from_team": {
+                    "id": 4406,
+                    "name": "Juventus"
+                },
+                "transfer_date": "29-08-2024",
+                "transfer_type": "n/a",
+                "transfer_amount": 0,
+                "transfer_currency": "usd"
+            },
+            {
+                "player_id": 62311,
+                "player_name": "C. Ramsay",
+                "from_team": {
+                    "id": 3320,
+                    "name": "Wigan Athletic"
+                },
+                "transfer_date": "03-01-2025",
+                "transfer_type": "n/a",
+                "transfer_amount": 0,
+                "transfer_currency": "usd"
+            },
+            {
+                "player_id": 100408,
+                "player_name": "K. Gordon",
+                "from_team": {
+                    "id": 3311,
+                    "name": "Norwich City"
+                },
+                "transfer_date": "14-01-2025",
+                "transfer_type": "n/a",
+                "transfer_amount": 0,
+                "transfer_currency": "usd"
+            },
+            {
+                "player_id": 27486,
+                "player_name": "R. Williams",
+                "from_team": {
+                    "id": 4182,
+                    "name": "Morecambe"
+                },
+                "transfer_date": "01-02-2025",
+                "transfer_type": "n/a",
+                "transfer_amount": 0,
+                "transfer_currency": "usd"
+            },
+            {
+                "player_id": 65375,
+                "player_name": "J. Frimpong",
+                "from_team": {
+                    "id": 4271,
+                    "name": "Bayer Leverkusen"
+                },
+                "transfer_date": "01-06-2025",
+                "transfer_type": "transfer-fee",
+                "transfer_amount": 35000000,
+                "transfer_currency": "eur"
+            },
+            {
+                "player_id": 199725,
+                "player_name": "Luca Stephenson",
+                "from_team": {
+                    "id": 3598,
+                    "name": "Dundee United"
+                },
+                "transfer_date": "01-06-2025",
+                "transfer_type": "n/a",
+                "transfer_amount": 0,
+                "transfer_currency": "usd"
+            },
+            {
+                "player_id": 100408,
+                "player_name": "K. Gordon",
+                "from_team": {
+                    "id": 3311,
+                    "name": "Norwich City"
+                },
+                "transfer_date": "01-06-2025",
+                "transfer_type": "n/a",
+                "transfer_amount": 0,
+                "transfer_currency": "usd"
+            },
+            {
+                "player_id": 61766,
+                "player_name": "N. Phillips",
+                "from_team": {
+                    "id": 3064,
+                    "name": "Derby County"
+                },
+                "transfer_date": "01-06-2025",
+                "transfer_type": "n/a",
+                "transfer_amount": 0,
+                "transfer_currency": "usd"
+            },
+            {
+                "player_id": 61826,
+                "player_name": "B. Doak",
+                "from_team": {
+                    "id": 4150,
+                    "name": "Middlesbrough"
+                },
+                "transfer_date": "01-06-2025",
+                "transfer_type": "n/a",
+                "transfer_amount": 0,
+                "transfer_currency": "usd"
+            },
+            {
+                "player_id": 61766,
+                "player_name": "N. Phillips",
+                "from_team": {
+                    "id": 3064,
+                    "name": "Derby County"
+                },
+                "transfer_date": "01-07-2025",
+                "transfer_type": "n/a",
+                "transfer_amount": 0,
+                "transfer_currency": "usd"
+            },
+            {
+                "player_id": 61829,
+                "player_name": "L. Koumas",
+                "from_team": {
+                    "id": 4143,
+                    "name": "Stoke City"
+                },
+                "transfer_date": "01-07-2025",
+                "transfer_type": "n/a",
+                "transfer_amount": 0,
+                "transfer_currency": "usd"
+            },
+            {
+                "player_id": 61761,
+                "player_name": "Stefan Bajčetić",
+                "from_team": {
+                    "id": 4903,
+                    "name": "Las Palmas"
+                },
+                "transfer_date": "01-07-2025",
+                "transfer_type": "n/a",
+                "transfer_amount": 0,
+                "transfer_currency": "usd"
+            },
+            {
+                "player_id": 100408,
+                "player_name": "K. Gordon",
+                "from_team": {
+                    "id": 4165,
+                    "name": "Portsmouth"
+                },
+                "transfer_date": "01-07-2025",
+                "transfer_type": "n/a",
+                "transfer_amount": 0,
+                "transfer_currency": "usd"
+            },
+            {
+                "player_id": 62311,
+                "player_name": "C. Ramsay",
+                "from_team": {
+                    "id": 3320,
+                    "name": "Wigan Athletic"
+                },
+                "transfer_date": "01-07-2025",
+                "transfer_type": "n/a",
+                "transfer_amount": 0,
+                "transfer_currency": "usd"
+            },
+            {
+                "player_id": 100691,
+                "player_name": "L. Chambers",
+                "from_team": {
+                    "id": 3320,
+                    "name": "Wigan Athletic"
+                },
+                "transfer_date": "01-07-2025",
+                "transfer_type": "n/a",
+                "transfer_amount": 0,
+                "transfer_currency": "usd"
+            },
+            {
+                "player_id": 27486,
+                "player_name": "R. Williams",
+                "from_team": {
+                    "id": 4182,
+                    "name": "Morecambe"
+                },
+                "transfer_date": "01-07-2025",
+                "transfer_type": "n/a",
+                "transfer_amount": 0,
+                "transfer_currency": "usd"
+            },
+            {
+                "player_id": 215543,
+                "player_name": "Jayden Danns",
+                "from_team": {
+                    "id": 3073,
+                    "name": "Sunderland"
+                },
+                "transfer_date": "01-07-2025",
+                "transfer_type": "n/a",
+                "transfer_amount": 0,
+                "transfer_currency": "usd"
+            },
+            {
+                "player_id": 61761,
+                "player_name": "Stefan Bajčetić",
+                "from_team": {
+                    "id": 2996,
+                    "name": "Salzburg"
+                },
+                "transfer_date": "01-07-2025",
+                "transfer_type": "n/a",
+                "transfer_amount": 0,
+                "transfer_currency": "usd"
+            },
+            {
+                "player_id": 82394,
+                "player_name": "G. Mamardashvili",
+                "from_team": {
+                    "id": 4890,
+                    "name": "Valencia"
+                },
+                "transfer_date": "01-07-2025",
+                "transfer_type": "n/a",
+                "transfer_amount": 0,
+                "transfer_currency": "usd"
+            },
+            {
+                "player_id": 62311,
+                "player_name": "C. Ramsay",
+                "from_team": {
+                    "id": 4808,
+                    "name": "Kilmarnock"
+                },
+                "transfer_date": "01-07-2025",
+                "transfer_type": "n/a",
+                "transfer_amount": 0,
+                "transfer_currency": "usd"
+            },
+            {
+                "player_id": 61826,
+                "player_name": "B. Doak",
+                "from_team": {
+                    "id": 4150,
+                    "name": "Middlesbrough"
+                },
+                "transfer_date": "01-07-2025",
+                "transfer_type": "n/a",
+                "transfer_amount": 0,
+                "transfer_currency": "usd"
+            }
+        ],
+        "transfers_out": [
+            {
+                "player_id": 61772,
+                "player_name": "J. Quansah",
+                "to_team": {
+                    "id": 3303,
+                    "name": "Bristol Rovers"
+                },
+                "transfer_date": "20-01-2023",
+                "transfer_type": "loan",
+                "transfer_amount": 0,
+                "transfer_currency": "usd"
+            },
+            {
+                "player_id": 100691,
+                "player_name": "L. Chambers",
+                "to_team": {
+                    "id": 4808,
+                    "name": "Kilmarnock"
+                },
+                "transfer_date": "30-01-2023",
+                "transfer_type": "loan",
+                "transfer_amount": 0,
+                "transfer_currency": "usd"
+            },
+            {
+                "player_id": 62311,
+                "player_name": "C. Ramsay",
+                "to_team": {
+                    "id": 4154,
+                    "name": "Preston North End"
+                },
+                "transfer_date": "13-06-2023",
+                "transfer_type": "loan",
+                "transfer_amount": 0,
+                "transfer_currency": "usd"
+            },
+            {
+                "player_id": 27537,
+                "player_name": "L. Clarkson",
+                "to_team": {
+                    "id": 2717,
+                    "name": "Aberdeen"
+                },
+                "transfer_date": "15-06-2023",
+                "transfer_type": "n/a",
+                "transfer_amount": 0,
+                "transfer_currency": "usd"
+            },
+            {
+                "player_id": 27486,
+                "player_name": "R. Williams",
+                "to_team": {
+                    "id": 2717,
+                    "name": "Aberdeen"
+                },
+                "transfer_date": "28-06-2023",
+                "transfer_type": "loan",
+                "transfer_amount": 0,
+                "transfer_currency": "usd"
+            },
+            {
+                "player_id": 63067,
+                "player_name": "H. Davies",
+                "to_team": {
+                    "id": 4180,
+                    "name": "Crewe Alexandra"
+                },
+                "transfer_date": "01-07-2023",
+                "transfer_type": "loan",
+                "transfer_amount": 0,
+                "transfer_currency": "usd"
+            },
+            {
+                "player_id": 45239,
+                "player_name": "J. Milner",
+                "to_team": {
+                    "id": 3200,
+                    "name": "Brighton & Hove Albion"
+                },
+                "transfer_date": "01-07-2023",
+                "transfer_type": "free",
+                "transfer_amount": 0,
+                "transfer_currency": "usd"
+            },
+            {
+                "player_id": 47081,
+                "player_name": "Fábio Carvalho",
+                "to_team": {
+                    "id": 3292,
+                    "name": "RB Leipzig"
+                },
+                "transfer_date": "01-07-2023",
+                "transfer_type": "loan",
+                "transfer_amount": 0,
+                "transfer_currency": "usd"
+            },
+            {
+                "player_id": 65509,
+                "player_name": "N. Keïta",
+                "to_team": {
+                    "id": 4273,
+                    "name": "Werder Bremen"
+                },
+                "transfer_date": "01-07-2023",
+                "transfer_type": "free",
+                "transfer_amount": 0,
+                "transfer_currency": "usd"
+            },
+            {
+                "player_id": 79735,
+                "player_name": "Roberto Firmino",
+                "to_team": {
+                    "id": 4791,
+                    "name": "Al Ahli"
+                },
+                "transfer_date": "04-07-2023",
+                "transfer_type": "free",
+                "transfer_amount": 0,
+                "transfer_currency": "usd"
+            },
+            {
+                "player_id": 41062,
+                "player_name": "S. van den Berg",
+                "to_team": {
+                    "id": 3003,
+                    "name": "Mainz"
+                },
+                "transfer_date": "13-07-2023",
+                "transfer_type": "loan",
+                "transfer_amount": 0,
+                "transfer_currency": "usd"
+            },
+            {
+                "player_id": 114167,
+                "player_name": "J. Balagizi",
+                "to_team": {
+                    "id": 3320,
+                    "name": "Wigan Athletic"
+                },
+                "transfer_date": "19-07-2023",
+                "transfer_type": "loan",
+                "transfer_amount": 0,
+                "transfer_currency": "usd"
+            },
+            {
+                "player_id": 62385,
+                "player_name": "L. Stewart",
+                "to_team": {
+                    "id": 4154,
+                    "name": "Preston North End"
+                },
+                "transfer_date": "22-07-2023",
+                "transfer_type": "n/a",
+                "transfer_amount": 0,
+                "transfer_currency": "usd"
+            },
+            {
+                "player_id": 61793,
+                "player_name": "J. Henderson",
+                "to_team": {
+                    "id": 4798,
+                    "name": "Al Ittifaq"
+                },
+                "transfer_date": "27-07-2023",
+                "transfer_type": "transfer-fee",
+                "transfer_amount": 14000000,
+                "transfer_currency": "eur"
+            },
+            {
+                "player_id": 61782,
+                "player_name": "Fabinho",
+                "to_team": {
+                    "id": 4797,
+                    "name": "Al Ittihad"
+                },
+                "transfer_date": "31-07-2023",
+                "transfer_type": "transfer-fee",
+                "transfer_amount": 46700000,
+                "transfer_currency": "eur"
+            },
+            {
+                "player_id": 113341,
+                "player_name": "M. Woltman",
+                "to_team": {
+                    "id": 4168,
+                    "name": "Oxford United"
+                },
+                "transfer_date": "03-08-2023",
+                "transfer_type": "n/a",
+                "transfer_amount": 0,
+                "transfer_currency": "usd"
+            },
+            {
+                "player_id": 100409,
+                "player_name": "A. Oxlade-Chamberlain",
+                "to_team": {
+                    "id": 3069,
+                    "name": "Besiktas"
+                },
+                "transfer_date": "14-08-2023",
+                "transfer_type": "free",
+                "transfer_amount": 0,
+                "transfer_currency": "usd"
+            },
+            {
+                "player_id": 34416,
+                "player_name": "B. Koumetio",
+                "to_team": {
+                    "id": 4255,
+                    "name": "Dunkerque"
+                },
+                "transfer_date": "29-08-2023",
+                "transfer_type": "loan",
+                "transfer_amount": 0,
+                "transfer_currency": "usd"
+            },
+            {
+                "player_id": 61766,
+                "player_name": "N. Phillips",
+                "to_team": {
+                    "id": 2827,
+                    "name": "Celtic"
+                },
+                "transfer_date": "31-08-2023",
+                "transfer_type": "loan",
+                "transfer_amount": 0,
+                "transfer_currency": "usd"
+            },
+            {
+                "player_id": 61718,
+                "player_name": "V. Jaroš",
+                "to_team": {
+                    "id": 3880,
+                    "name": "Sturm Graz"
+                },
+                "transfer_date": "09-01-2024",
+                "transfer_type": "loan",
+                "transfer_amount": 0,
+                "transfer_currency": "usd"
+            },
+            {
+                "player_id": 47081,
+                "player_name": "Fábio Carvalho",
+                "to_team": {
+                    "id": 4153,
+                    "name": "Hull City"
+                },
+                "transfer_date": "10-01-2024",
+                "transfer_type": "loan",
+                "transfer_amount": 0,
+                "transfer_currency": "usd"
+            },
+            {
+                "player_id": 100691,
+                "player_name": "L. Chambers",
+                "to_team": {
+                    "id": 3320,
+                    "name": "Wigan Athletic"
+                },
+                "transfer_date": "12-01-2024",
+                "transfer_type": "loan",
+                "transfer_amount": 0,
+                "transfer_currency": "usd"
+            },
+            {
+                "player_id": 174793,
+                "player_name": "L. Hughes",
+                "to_team": {
+                    "id": 3643,
+                    "name": "Haka"
+                },
+                "transfer_date": "12-01-2024",
+                "transfer_type": "free",
+                "transfer_amount": 0,
+                "transfer_currency": "usd"
+            },
+            {
+                "player_id": 27486,
+                "player_name": "R. Williams",
+                "to_team": {
+                    "id": 4184,
+                    "name": "Port Vale"
+                },
+                "transfer_date": "16-01-2024",
+                "transfer_type": "loan",
+                "transfer_amount": 0,
+                "transfer_currency": "usd"
+            },
+            {
+                "player_id": 114167,
+                "player_name": "J. Balagizi",
+                "to_team": {
+                    "id": 4808,
+                    "name": "Kilmarnock"
+                },
+                "transfer_date": "24-01-2024",
+                "transfer_type": "loan",
+                "transfer_amount": 0,
+                "transfer_currency": "usd"
+            },
+            {
+                "player_id": 62311,
+                "player_name": "C. Ramsay",
+                "to_team": {
+                    "id": 4156,
+                    "name": "Bolton Wanderers"
+                },
+                "transfer_date": "29-01-2024",
+                "transfer_type": "loan",
+                "transfer_amount": 0,
+                "transfer_currency": "usd"
+            },
+            {
+                "player_id": 61766,
+                "player_name": "N. Phillips",
+                "to_team": {
+                    "id": 3285,
+                    "name": "Cardiff City"
+                },
+                "transfer_date": "30-01-2024",
+                "transfer_type": "loan",
+                "transfer_amount": 0,
+                "transfer_currency": "usd"
+            },
+            {
+                "player_id": 174793,
+                "player_name": "L. Hughes",
+                "to_team": {
+                    "id": 3643,
+                    "name": "Haka"
+                },
+                "transfer_date": "08-02-2024",
+                "transfer_type": "free",
+                "transfer_amount": 0,
+                "transfer_currency": "usd"
+            },
+            {
+                "player_id": 62311,
+                "player_name": "C. Ramsay",
+                "to_team": {
+                    "id": 3320,
+                    "name": "Wigan Athletic"
+                },
+                "transfer_date": "14-06-2024",
+                "transfer_type": "loan",
+                "transfer_amount": 0,
+                "transfer_currency": "usd"
+            },
+            {
+                "player_id": 61707,
+                "player_name": "Adrián",
+                "to_team": {
+                    "id": 4886,
+                    "name": "Real Betis"
+                },
+                "transfer_date": "08-07-2024",
+                "transfer_type": "free",
+                "transfer_amount": 0,
+                "transfer_currency": "usd"
+            },
+            {
+                "player_id": 61722,
+                "player_name": "F. Mrozek",
+                "to_team": {
+                    "id": 3096,
+                    "name": "Brommapojkarna"
+                },
+                "transfer_date": "26-07-2024",
+                "transfer_type": "loan",
+                "transfer_amount": 0,
+                "transfer_currency": "usd"
+            },
+            {
+                "player_id": 100820,
+                "player_name": "M. Musialowski",
+                "to_team": {
+                    "id": 3629,
+                    "name": "Omonia Nicosia"
+                },
+                "transfer_date": "05-08-2024",
+                "transfer_type": "free",
+                "transfer_amount": 0,
+                "transfer_currency": "usd"
+            },
+            {
+                "player_id": 100691,
+                "player_name": "L. Chambers",
+                "to_team": {
+                    "id": 3320,
+                    "name": "Wigan Athletic"
+                },
+                "transfer_date": "06-08-2024",
+                "transfer_type": "loan",
+                "transfer_amount": 0,
+                "transfer_currency": "usd"
+            },
+            {
+                "player_id": 61829,
+                "player_name": "L. Koumas",
+                "to_team": {
+                    "id": 4143,
+                    "name": "Stoke City"
+                },
+                "transfer_date": "10-08-2024",
+                "transfer_type": "loan",
+                "transfer_amount": 0,
+                "transfer_currency": "usd"
+            },
+            {
+                "player_id": 47081,
+                "player_name": "Fábio Carvalho",
+                "to_team": {
+                    "id": 4148,
+                    "name": "Brentford"
+                },
+                "transfer_date": "12-08-2024",
+                "transfer_type": "transfer-fee",
+                "transfer_amount": 23400000,
+                "transfer_currency": "eur"
+            },
+            {
+                "player_id": 199725,
+                "player_name": "Luca Stephenson",
+                "to_team": {
+                    "id": 3598,
+                    "name": "Dundee United"
+                },
+                "transfer_date": "15-08-2024",
+                "transfer_type": "loan",
+                "transfer_amount": 0,
+                "transfer_currency": "usd"
+            },
+            {
+                "player_id": 27486,
+                "player_name": "R. Williams",
+                "to_team": {
+                    "id": 4182,
+                    "name": "Morecambe"
+                },
+                "transfer_date": "20-08-2024",
+                "transfer_type": "loan",
+                "transfer_amount": 0,
+                "transfer_currency": "usd"
+            },
+            {
+                "player_id": 61803,
+                "player_name": "B. Clark",
+                "to_team": {
+                    "id": 2996,
+                    "name": "Salzburg"
+                },
+                "transfer_date": "22-08-2024",
+                "transfer_type": "transfer-fee",
+                "transfer_amount": 11700000,
+                "transfer_currency": "eur"
+            },
+            {
+                "player_id": 41062,
+                "player_name": "S. van den Berg",
+                "to_team": {
+                    "id": 4148,
+                    "name": "Brentford"
+                },
+                "transfer_date": "22-08-2024",
+                "transfer_type": "transfer-fee",
+                "transfer_amount": 23600000,
+                "transfer_currency": "eur"
+            },
+            {
+                "player_id": 82394,
+                "player_name": "G. Mamardashvili",
+                "to_team": {
+                    "id": 4890,
+                    "name": "Valencia"
+                },
+                "transfer_date": "28-08-2024",
+                "transfer_type": "loan",
+                "transfer_amount": 0,
+                "transfer_currency": "usd"
+            },
+            {
+                "player_id": 61779,
+                "player_name": "C. Scanlon",
+                "to_team": {
+                    "id": 3308,
+                    "name": "Millwall"
+                },
+                "transfer_date": "29-08-2024",
+                "transfer_type": "loan",
+                "transfer_amount": 0,
+                "transfer_currency": "usd"
+            },
+            {
+                "player_id": 61826,
+                "player_name": "B. Doak",
+                "to_team": {
+                    "id": 4150,
+                    "name": "Middlesbrough"
+                },
+                "transfer_date": "30-08-2024",
+                "transfer_type": "loan",
+                "transfer_amount": 0,
+                "transfer_currency": "usd"
+            },
+            {
+                "player_id": 61714,
+                "player_name": "Marcelo",
+                "to_team": {
+                    "id": 3407,
+                    "name": "Livingston"
+                },
+                "transfer_date": "30-08-2024",
+                "transfer_type": "loan",
+                "transfer_amount": 0,
+                "transfer_currency": "usd"
+            },
+            {
+                "player_id": 61761,
+                "player_name": "Stefan Bajčetić",
+                "to_team": {
+                    "id": 2996,
+                    "name": "Salzburg"
+                },
+                "transfer_date": "30-08-2024",
+                "transfer_type": "loan",
+                "transfer_amount": 0,
+                "transfer_currency": "usd"
+            },
+            {
+                "player_id": 61766,
+                "player_name": "N. Phillips",
+                "to_team": {
+                    "id": 3064,
+                    "name": "Derby County"
+                },
+                "transfer_date": "30-08-2024",
+                "transfer_type": "loan",
+                "transfer_amount": 0,
+                "transfer_currency": "usd"
+            },
+            {
+                "player_id": 61714,
+                "player_name": "Marcelo",
+                "to_team": {
+                    "id": 3344,
+                    "name": "Fluminense"
+                },
+                "transfer_date": "06-01-2025",
+                "transfer_type": "free",
+                "transfer_amount": 0,
+                "transfer_currency": "usd"
+            },
+            {
+                "player_id": 62311,
+                "player_name": "C. Ramsay",
+                "to_team": {
+                    "id": 4808,
+                    "name": "Kilmarnock"
+                },
+                "transfer_date": "13-01-2025",
+                "transfer_type": "loan",
+                "transfer_amount": 0,
+                "transfer_currency": "usd"
+            },
+            {
+                "player_id": 100693,
+                "player_name": "T. Hill",
+                "to_team": {
+                    "id": 2701,
+                    "name": "Harrogate Town"
+                },
+                "transfer_date": "22-01-2025",
+                "transfer_type": "n/a",
+                "transfer_amount": 0,
+                "transfer_currency": "usd"
+            },
+            {
+                "player_id": 61761,
+                "player_name": "Stefan Bajčetić",
+                "to_team": {
+                    "id": 4903,
+                    "name": "Las Palmas"
+                },
+                "transfer_date": "31-01-2025",
+                "transfer_type": "loan",
+                "transfer_amount": 0,
+                "transfer_currency": "usd"
+            },
+            {
+                "player_id": 215543,
+                "player_name": "Jayden Danns",
+                "to_team": {
+                    "id": 3073,
+                    "name": "Sunderland"
+                },
+                "transfer_date": "04-02-2025",
+                "transfer_type": "loan",
+                "transfer_amount": 0,
+                "transfer_currency": "usd"
+            },
+            {
+                "player_id": 61770,
+                "player_name": "T. Alexander-Arnold",
+                "to_team": {
+                    "id": 4883,
+                    "name": "Real Madrid"
+                },
+                "transfer_date": "01-06-2025",
+                "transfer_type": "transfer-fee",
+                "transfer_amount": 10000000,
+                "transfer_currency": "eur"
+            }
+        ]
+    }
+}

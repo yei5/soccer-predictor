@@ -1,0 +1,647 @@
+{
+    "id": 909713,
+    "date": "03/10/2023",
+    "time": "19:00",
+    "country": {
+        "id": 4,
+        "name": "europe"
+    },
+    "league": {
+        "id": 310,
+        "name": "UEFA Champions League"
+    },
+    "stage": {
+        "id": 13032,
+        "name": "UEFA Champions League: Group Stage",
+        "is_active": false
+    },
+    "teams": {
+        "home": {
+            "id": 3772,
+            "name": "FC Copenhagen"
+        },
+        "away": {
+            "id": 4270,
+            "name": "Bayern Munich"
+        }
+    },
+    "stadium": {
+        "id": 556,
+        "name": "Parken",
+        "city": "Kobenhavn"
+    },
+    "status": "finished",
+    "minute": -1,
+    "winner": "away",
+    "has_extra_time": false,
+    "has_penalties": false,
+    "goals": {
+        "home_ht_goals": 0,
+        "away_ht_goals": 0,
+        "home_ft_goals": 1,
+        "away_ft_goals": 2,
+        "home_et_goals": -1,
+        "away_et_goals": -1,
+        "home_pen_goals": -1,
+        "away_pen_goals": -1
+    },
+    "events": [
+        {
+            "event_type": "yellow_card",
+            "event_minute": "54",
+            "team": "home",
+            "player": {
+                "id": 26494,
+                "name": "B. Meling"
+            }
+        },
+        {
+            "event_type": "goal",
+            "event_minute": "56",
+            "team": "home",
+            "player": {
+                "id": 26528,
+                "name": "L. Lerager"
+            },
+            "assist_player": null
+        },
+        {
+            "event_type": "yellow_card",
+            "event_minute": "63",
+            "team": "home",
+            "player": {
+                "id": 26528,
+                "name": "L. Lerager"
+            }
+        },
+        {
+            "event_type": "substitution",
+            "event_minute": "65",
+            "team": "home",
+            "player_in": {
+                "id": 26542,
+                "name": "R. Bardghji"
+            },
+            "player_out": {
+                "id": 32097,
+                "name": "E. Achouri"
+            }
+        },
+        {
+            "event_type": "goal",
+            "event_minute": "67",
+            "team": "away",
+            "player": {
+                "id": 65453,
+                "name": "J. Musiala"
+            },
+            "assist_player": null
+        },
+        {
+            "event_type": "yellow_card",
+            "event_minute": "69",
+            "team": "away",
+            "player": {
+                "id": 65453,
+                "name": "J. Musiala"
+            }
+        },
+        {
+            "event_type": "substitution",
+            "event_minute": "77",
+            "team": "away",
+            "player_in": {
+                "id": 65451,
+                "name": "T. Müller"
+            },
+            "player_out": {
+                "id": 65442,
+                "name": "K. Laimer"
+            }
+        },
+        {
+            "event_type": "substitution",
+            "event_minute": "77",
+            "team": "away",
+            "player_in": {
+                "id": 65457,
+                "name": "M. Tel"
+            },
+            "player_out": {
+                "id": 65455,
+                "name": "L. Sané"
+            }
+        },
+        {
+            "event_type": "substitution",
+            "event_minute": "77",
+            "team": "away",
+            "player_in": {
+                "id": 65437,
+                "name": "L. Goretzka"
+            },
+            "player_out": {
+                "id": 65453,
+                "name": "J. Musiala"
+            }
+        },
+        {
+            "event_type": "substitution",
+            "event_minute": "78",
+            "team": "home",
+            "player_in": {
+                "id": 26522,
+                "name": "V. Lund Jensen"
+            },
+            "player_out": {
+                "id": 26508,
+                "name": "K. Diks"
+            }
+        },
+        {
+            "event_type": "goal",
+            "event_minute": "83",
+            "team": "away",
+            "player": {
+                "id": 65457,
+                "name": "M. Tel"
+            },
+            "assist_player": {
+                "id": 65451,
+                "name": "T. Müller"
+            }
+        },
+        {
+            "event_type": "substitution",
+            "event_minute": "85",
+            "team": "home",
+            "player_in": {
+                "id": 26554,
+                "name": "O. Oskarsson"
+            },
+            "player_out": {
+                "id": 26527,
+                "name": "Diogo Goncalves"
+            }
+        },
+        {
+            "event_type": "substitution",
+            "event_minute": "85",
+            "team": "home",
+            "player_in": {
+                "id": 26556,
+                "name": "J. Larsson"
+            },
+            "player_out": {
+                "id": 97425,
+                "name": "M. Elyounoussi"
+            }
+        },
+        {
+            "event_type": "substitution",
+            "event_minute": "87",
+            "team": "away",
+            "player_in": {
+                "id": 65446,
+                "name": "E. Choupo-Moting"
+            },
+            "player_out": {
+                "id": 65447,
+                "name": "K. Coman"
+            }
+        },
+        {
+            "event_type": "yellow_card",
+            "event_minute": "90",
+            "team": "home",
+            "player": {
+                "id": 26510,
+                "name": "D. Vavro"
+            }
+        }
+    ],
+    "odds": {
+        "match_winner": {
+            "home": 11.08,
+            "draw": 7,
+            "away": 1.23
+        },
+        "over_under": {
+            "total": 3.5,
+            "over": 1.97,
+            "under": 1.88
+        },
+        "handicap": {
+            "market": "+1.75",
+            "home": 2.07,
+            "away": 1.81
+        },
+        "last_modified_timestamp": 1696366902
+    },
+    "lineups": {
+        "lineup_type": "live",
+        "lineups": {
+            "home": [
+                {
+                    "player": {
+                        "id": 26504,
+                        "name": "K. Grabara"
+                    },
+                    "position": "Goalkeeper"
+                },
+                {
+                    "player": {
+                        "id": 26494,
+                        "name": "B. Meling"
+                    },
+                    "position": "Defender"
+                },
+                {
+                    "player": {
+                        "id": 26508,
+                        "name": "K. Diks"
+                    },
+                    "position": "Defender"
+                },
+                {
+                    "player": {
+                        "id": 26510,
+                        "name": "D. Vavro"
+                    },
+                    "position": "Defender"
+                },
+                {
+                    "player": {
+                        "id": 26520,
+                        "name": "P. Ankersen"
+                    },
+                    "position": "Defender"
+                },
+                {
+                    "player": {
+                        "id": 97425,
+                        "name": "M. Elyounoussi"
+                    },
+                    "position": "Midfielder"
+                },
+                {
+                    "player": {
+                        "id": 26525,
+                        "name": "V. Claesson"
+                    },
+                    "position": "Midfielder"
+                },
+                {
+                    "player": {
+                        "id": 26528,
+                        "name": "L. Lerager"
+                    },
+                    "position": "Midfielder"
+                },
+                {
+                    "player": {
+                        "id": 26538,
+                        "name": "R. Falk"
+                    },
+                    "position": "Midfielder"
+                },
+                {
+                    "player": {
+                        "id": 32097,
+                        "name": "E. Achouri"
+                    },
+                    "position": "Attacker"
+                },
+                {
+                    "player": {
+                        "id": 26527,
+                        "name": "Diogo Goncalves"
+                    },
+                    "position": "Attacker"
+                }
+            ],
+            "away": [
+                {
+                    "player": {
+                        "id": 65425,
+                        "name": "S. Ulreich"
+                    },
+                    "position": "Goalkeeper"
+                },
+                {
+                    "player": {
+                        "id": 65426,
+                        "name": "A. Davies"
+                    },
+                    "position": "Defender"
+                },
+                {
+                    "player": {
+                        "id": 65429,
+                        "name": "Kim Min-Jae"
+                    },
+                    "position": "Defender"
+                },
+                {
+                    "player": {
+                        "id": 65431,
+                        "name": "N. Mazraoui"
+                    },
+                    "position": "Defender"
+                },
+                {
+                    "player": {
+                        "id": 65436,
+                        "name": "D. Upamecano"
+                    },
+                    "position": "Defender"
+                },
+                {
+                    "player": {
+                        "id": 65442,
+                        "name": "K. Laimer"
+                    },
+                    "position": "Midfielder"
+                },
+                {
+                    "player": {
+                        "id": 65440,
+                        "name": "J. Kimmich"
+                    },
+                    "position": "Midfielder"
+                },
+                {
+                    "player": {
+                        "id": 65453,
+                        "name": "J. Musiala"
+                    },
+                    "position": "Midfielder"
+                },
+                {
+                    "player": {
+                        "id": 65455,
+                        "name": "L. Sané"
+                    },
+                    "position": "Attacker"
+                },
+                {
+                    "player": {
+                        "id": 65447,
+                        "name": "K. Coman"
+                    },
+                    "position": "Attacker"
+                },
+                {
+                    "player": {
+                        "id": 27228,
+                        "name": "H. Kane"
+                    },
+                    "position": "Attacker"
+                }
+            ]
+        },
+        "bench": {
+            "home": [
+                {
+                    "player": {
+                        "id": 26506,
+                        "name": "A. Dithmer"
+                    },
+                    "position": "Goalkeeper"
+                },
+                {
+                    "player": {
+                        "id": 42019,
+                        "name": "T. Sander"
+                    },
+                    "position": "Goalkeeper"
+                },
+                {
+                    "player": {
+                        "id": 26518,
+                        "name": "N. Boilesen"
+                    },
+                    "position": "Defender"
+                },
+                {
+                    "player": {
+                        "id": 26522,
+                        "name": "V. Lund Jensen"
+                    },
+                    "position": "Defender"
+                },
+                {
+                    "player": {
+                        "id": 26514,
+                        "name": "C. Sorensen"
+                    },
+                    "position": "Defender"
+                },
+                {
+                    "player": {
+                        "id": 77757,
+                        "name": "M. Tanlongo"
+                    },
+                    "position": "Midfielder"
+                },
+                {
+                    "player": {
+                        "id": 26542,
+                        "name": "R. Bardghji"
+                    },
+                    "position": "Midfielder"
+                },
+                {
+                    "player": {
+                        "id": 52354,
+                        "name": "O. Højlund"
+                    },
+                    "position": "Midfielder"
+                },
+                {
+                    "player": {
+                        "id": 26554,
+                        "name": "O. Oskarsson"
+                    },
+                    "position": "Attacker"
+                },
+                {
+                    "player": {
+                        "id": 26556,
+                        "name": "J. Larsson"
+                    },
+                    "position": "Attacker"
+                }
+            ],
+            "away": [
+                {
+                    "player": {
+                        "id": 26572,
+                        "name": "Daniel Peretz"
+                    },
+                    "position": "Goalkeeper"
+                },
+                {
+                    "player": {
+                        "id": 65428,
+                        "name": "Raphaël Guerreiro"
+                    },
+                    "position": "Defender"
+                },
+                {
+                    "player": {
+                        "id": 65433,
+                        "name": "B. Sarr"
+                    },
+                    "position": "Defender"
+                },
+                {
+                    "player": {
+                        "id": 65437,
+                        "name": "L. Goretzka"
+                    },
+                    "position": "Midfielder"
+                },
+                {
+                    "player": {
+                        "id": 65441,
+                        "name": "F. Krätzig"
+                    },
+                    "position": "Midfielder"
+                },
+                {
+                    "player": {
+                        "id": 65446,
+                        "name": "E. Choupo-Moting"
+                    },
+                    "position": "Attacker"
+                },
+                {
+                    "player": {
+                        "id": 65451,
+                        "name": "T. Müller"
+                    },
+                    "position": "Attacker"
+                },
+                {
+                    "player": {
+                        "id": 65457,
+                        "name": "M. Tel"
+                    },
+                    "position": "Attacker"
+                }
+            ]
+        },
+        "sidelined": {
+            "home": [
+                {
+                    "player": {
+                        "id": 26540,
+                        "name": "W. Clem"
+                    },
+                    "status": "out",
+                    "desc": "Illness"
+                },
+                {
+                    "player": {
+                        "id": 26560,
+                        "name": "E. Hojlund"
+                    },
+                    "status": "out",
+                    "desc": "Inactive"
+                },
+                {
+                    "player": {
+                        "id": 26518,
+                        "name": "N. Boilesen"
+                    },
+                    "status": "out",
+                    "desc": "Injury"
+                },
+                {
+                    "player": {
+                        "id": 26550,
+                        "name": "K. Babacar"
+                    },
+                    "status": "out",
+                    "desc": "Injury"
+                },
+                {
+                    "player": {
+                        "id": 26552,
+                        "name": "A. Cornelius"
+                    },
+                    "status": "out",
+                    "desc": "Injury"
+                },
+                {
+                    "player": {
+                        "id": 26512,
+                        "name": "D. Khocholava"
+                    },
+                    "status": "out",
+                    "desc": "Knee Injury"
+                },
+                {
+                    "player": {
+                        "id": 26516,
+                        "name": "E. Jelert"
+                    },
+                    "status": "out",
+                    "desc": "Red Card"
+                }
+            ],
+            "away": [
+                {
+                    "player": {
+                        "id": 65448,
+                        "name": "S. Gnabry"
+                    },
+                    "status": "out",
+                    "desc": "Broken Hand"
+                },
+                {
+                    "player": {
+                        "id": 65423,
+                        "name": "M. Neuer"
+                    },
+                    "status": "out",
+                    "desc": "Broken Leg"
+                },
+                {
+                    "player": {
+                        "id": 65427,
+                        "name": "M. de Ligt"
+                    },
+                    "status": "out",
+                    "desc": "Knee Injury"
+                },
+                {
+                    "player": {
+                        "id": 199148,
+                        "name": "T. Fukui"
+                    },
+                    "status": "out",
+                    "desc": "Knee Injury"
+                },
+                {
+                    "player": {
+                        "id": 99291,
+                        "name": "T. Buchmann"
+                    },
+                    "status": "out",
+                    "desc": "Muscle Injury"
+                }
+            ]
+        },
+        "formation": {
+            "home": "4-3-3",
+            "away": "4-2-3-1"
+        }
+    },
+    "match_preview": {
+        "has_preview": true,
+        "word_count": 337,
+        "excitement_rating": 9.17
+    }
+}

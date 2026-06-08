@@ -1,0 +1,299 @@
+{
+    "count": 14,
+    "updated_at": "2026-06-04T02:47:41Z",
+    "results": [
+        {
+            "league_id": 204,
+            "league_name": "Ligue 1",
+            "is_cup": false,
+            "country": {
+                "id": 87,
+                "name": "algeria"
+            },
+            "match_previews": [
+                {
+                    "id": 973951,
+                    "date": "05/06/2026",
+                    "time": "19:00",
+                    "word_count": 683,
+                    "excitement_rating": 9.11,
+                    "teams": {
+                        "home": {
+                            "id": 3267,
+                            "name": "Kabylie"
+                        },
+                        "away": {
+                            "id": 3816,
+                            "name": "Belouizdad"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "league_id": 213,
+            "league_name": "Primera Division",
+            "is_cup": false,
+            "country": {
+                "id": 88,
+                "name": "bolivia"
+            },
+            "match_previews": [
+                {
+                    "id": 974540,
+                    "date": "06/06/2026",
+                    "time": "21:15",
+                    "word_count": 626,
+                    "excitement_rating": 9.05,
+                    "teams": {
+                        "home": {
+                            "id": 3919,
+                            "name": "Nacional Potosi"
+                        },
+                        "away": {
+                            "id": 3922,
+                            "name": "Aurora"
+                        }
+                    }
+                },
+                {
+                    "id": 974542,
+                    "date": "06/06/2026",
+                    "time": "23:30",
+                    "word_count": 755,
+                    "excitement_rating": 6.97,
+                    "teams": {
+                        "home": {
+                            "id": 15705,
+                            "name": "Real Oruro"
+                        },
+                        "away": {
+                            "id": 3932,
+                            "name": "Universitario de Vinto"
+                        }
+                    }
+                },
+                {
+                    "id": 974683,
+                    "date": "07/06/2026",
+                    "time": "21:15",
+                    "word_count": 739,
+                    "excitement_rating": 8.71,
+                    "teams": {
+                        "home": {
+                            "id": 3914,
+                            "name": "The Strongest"
+                        },
+                        "away": {
+                            "id": 3918,
+                            "name": "Oriente Petrolero"
+                        }
+                    }
+                },
+                {
+                    "id": 974685,
+                    "date": "07/06/2026",
+                    "time": "23:30",
+                    "word_count": 657,
+                    "excitement_rating": 5.69,
+                    "teams": {
+                        "home": {
+                            "id": 3920,
+                            "name": "Blooming"
+                        },
+                        "away": {
+                            "id": 15798,
+                            "name": "Gualberto Villarroel SJ"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "league_id": 216,
+            "league_name": "Serie B",
+            "is_cup": false,
+            "country": {
+                "id": 67,
+                "name": "brazil"
+            },
+            "match_previews": [
+                {
+                    "id": 974336,
+                    "date": "05/06/2026",
+                    "time": "23:00",
+                    "word_count": 726,
+                    "excitement_rating": 7.57,
+                    "teams": {
+                        "home": {
+                            "id": 3967,
+                            "name": "Operario PR"
+                        },
+                        "away": {
+                            "id": 3963,
+                            "name": "Juventude"
+                        }
+                    }
+                },
+                {
+                    "id": 974338,
+                    "date": "07/06/2026",
+                    "time": "19:00",
+                    "word_count": 700,
+                    "excitement_rating": 8.8,
+                    "teams": {
+                        "home": {
+                            "id": 3965,
+                            "name": "CRB"
+                        },
+                        "away": {
+                            "id": 5499,
+                            "name": "Sao Bernardo"
+                        }
+                    }
+                },
+                {
+                    "id": 974339,
+                    "date": "08/06/2026",
+                    "time": "23:00",
+                    "word_count": 680,
+                    "excitement_rating": 4.4,
+                    "teams": {
+                        "home": {
+                            "id": 3962,
+                            "name": "America Mineiro"
+                        },
+                        "away": {
+                            "id": 3960,
+                            "name": "Atletico Goianiense"
+                        }
+                    }
+                },
+                {
+                    "id": 974340,
+                    "date": "08/06/2026",
+                    "time": "23:00",
+                    "word_count": 653,
+                    "excitement_rating": 8.73,
+                    "teams": {
+                        "home": {
+                            "id": 3976,
+                            "name": "Vila Nova"
+                        },
+                        "away": {
+                            "id": 3966,
+                            "name": "Botafogo SP"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "league_id": 256,
+            "league_name": "J1 League",
+            "is_cup": false,
+            "country": {
+                "id": 61,
+                "name": "japan"
+            },
+            "match_previews": [
+                {
+                    "id": 978497,
+                    "date": "06/06/2026",
+                    "time": "06:00",
+                    "word_count": 641,
+                    "excitement_rating": 7.4,
+                    "teams": {
+                        "home": {
+                            "id": 4468,
+                            "name": "Machida Zelvia"
+                        },
+                        "away": {
+                            "id": 4445,
+                            "name": "Nagoya Grampus"
+                        }
+                    }
+                },
+                {
+                    "id": 978505,
+                    "date": "06/06/2026",
+                    "time": "08:00",
+                    "word_count": 638,
+                    "excitement_rating": 7.67,
+                    "teams": {
+                        "home": {
+                            "id": 4434,
+                            "name": "Yokohama F. Marinos"
+                        },
+                        "away": {
+                            "id": 4444,
+                            "name": "Shimizu S-Pulse"
+                        }
+                    }
+                },
+                {
+                    "id": 978508,
+                    "date": "06/06/2026",
+                    "time": "09:00",
+                    "word_count": 645,
+                    "excitement_rating": 8.32,
+                    "teams": {
+                        "home": {
+                            "id": 4451,
+                            "name": "Kashiwa Reysol"
+                        },
+                        "away": {
+                            "id": 4455,
+                            "name": "Kyoto Sanga"
+                        }
+                    }
+                },
+                {
+                    "id": 978511,
+                    "date": "06/06/2026",
+                    "time": "10:00",
+                    "word_count": 604,
+                    "excitement_rating": 6.67,
+                    "teams": {
+                        "home": {
+                            "id": 4437,
+                            "name": "Kawasaki Frontale"
+                        },
+                        "away": {
+                            "id": 4439,
+                            "name": "Sanfrecce Hiroshima"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "league_id": 267,
+            "league_name": "Botola Pro",
+            "is_cup": false,
+            "country": {
+                "id": 76,
+                "name": "morocco"
+            },
+            "match_previews": [
+                {
+                    "id": 984835,
+                    "date": "08/06/2026",
+                    "time": "18:00",
+                    "word_count": 714,
+                    "excitement_rating": 7.86,
+                    "teams": {
+                        "home": {
+                            "id": 4577,
+                            "name": "Wydad Casablanca"
+                        },
+                        "away": {
+                            "id": 4580,
+                            "name": "Olympic Safi"
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

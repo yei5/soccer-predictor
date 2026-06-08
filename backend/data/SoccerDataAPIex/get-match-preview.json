@@ -1,0 +1,76 @@
+{
+    "id": 973951,
+    "date": "05-06-2026",
+    "time": "19:00",
+    "word_count": 683,
+    "country": {
+        "id": 87,
+        "name": "algeria"
+    },
+    "league": {
+        "id": 204,
+        "name": "Ligue 1"
+    },
+    "stage": {
+        "id": 13994,
+        "name": "Ligue 1: Regular Season",
+        "is_active": true
+    },
+    "teams": {
+        "home": {
+            "id": 3267,
+            "name": "Kabylie"
+        },
+        "away": {
+            "id": 3816,
+            "name": "Belouizdad"
+        }
+    },
+    "match_data": {
+        "weather": {
+            "temp_f": 77.3,
+            "temp_c": 25.1,
+            "description": "sunny"
+        },
+        "excitement_rating": 9.11,
+        "prediction": {
+            "type": "over_under",
+            "total": "2.0",
+            "choice": "over"
+        }
+    },
+    "preview_content": [
+        {
+            "name": "p1",
+            "content": "This Friday, June 5, at 19:00 UTC, Kabylie will host CR Belouizdad at Tizi Ouzou’s Hocine Aït Ahmed Stadium, a venue etched into the heart of a city known for its vibrant Berber heritage and its role as a regional commerce hub in Algeria’s Kabylie region. The match unfolds under clear skies, with a mild 77°F adding to the anticipation within a community where football pulses through daily life like the nearby olive groves and weaving workshops. Kabylie’s tactical approach, often blending disciplined defense with swift counterattacks, will once again test CR Belouizdad, recalling their January meeting on this pitch when Kabylie secured a narrow 1-0 victory—an encounter defined by intense midfield battles and the passionate roar of a crowd representing one of Algeria’s richest cultural landscapes."
+        },
+        {
+            "name": "h1",
+            "content": "A. Mahious secures a hat-trick to electrify the passion-filled stands of Hocine Ait Ahmed, fueling Kabylie’s northern attack."
+        },
+        {
+            "name": "p2",
+            "content": "Kabylie’s recent rhythm reflects a measured pulse rather than a burst of flair, as the team blends the traditional Algerian emphasis on technical skill with a steady tempo suited to their mountainous home in Tizi Ouzou, where fans’ chants often ebb and flow like the rugged terrain surrounding their stadium. Sitting fifth with 44 points from 29 games, their campaign balances tight control and moments of attack, evident in their 10 goals in the last five matches—striking without reckless abandon. Against similarly ranked sides, their play reveals a tactical hesitance, averaging less than a goal per game while conceding more, suggesting areas to tighten defensively. A. Mahious’s three-goal display in the recent 5-5 draw with ES Setif captured the unpredictability intrinsic to Kabylie’s approach, where offensive bursts can ignite amid collective discipline. This upcoming match could again mirror that volatility, reflecting the team’s careful navigation between calculated possession and sudden offensive surges."
+        },
+        {
+            "name": "h2",
+            "content": "Y. Laouafi shines like the Kabyle sun, netting a hat-trick to electrify the Stade du 1er Novembre crowd."
+        },
+        {
+            "name": "p3",
+            "content": "CR Belouizdad head into this fixture after securing three wins in five matches, with their forwards finding the net eight times during that span. Their recent home clash saw Y. Laouafi claim the spotlight, bagging a hat-trick in a 3-1 victory over Ben Aknoun. Against teams of similar standing this season, Belouizdad have experienced a mixed run—one win, two draws, and three losses—averaging one goal scored and just over one conceded per game. With a full squad available, the away side will be looking to convert their attacking promise into points on the road."
+        },
+        {
+            "name": "p4",
+            "content": "The upcoming fixture between Kabylie and CR Belouizdad promises a tactical battle built on a history of cautious encounters, with recent meetings averaging just over two goals per game. On a pitch where both sides have often found it difficult to break through, Kabylie will look to convert moments of possession into opportunities, while CR Belouizdad will aim to impose their rhythm, relying on sharp transitions and disciplined positioning. With 44 clashes behind them, the edge tilts slightly toward CR Belouizdad’s 22 wins, though Kabylie’s 13 victories and nine draws signal a competitive balance. This latest meeting is likely to unfold as a measured contest, where patience and precision could determine the outcome."
+        },
+        {
+            "name": "h3",
+            "content": "In a fierce Ligue 1 showdown, JS Kabylie’s Amazigh warriors harness Tizi Ouzou’s mountain spirit to challenge Algeria’s football elite."
+        },
+        {
+            "name": "p5",
+            "content": "When JS Kabylie meets CR Belouizdad, the clash resembles the fierce intensity of a Tizi Ouzou market at dawn, where every stall competes for attention with a crescendo of voices and vibrant colors. On the pitch, JSK’s play mirrors the mountain winds sweeping through the Djurdjura, swift and unyielding, pressing with a rhythm born of countless local gatherings fueled by shared passion and pride. CR Belouizdad counters with the calculated precision of Algiers’ urban pulse, exploiting openings with sharp, measured strikes that slice through defenses like a well-practiced craftsman carving wood in the heart of Kabylie. This confrontation is more than a game—it’s a symphony of regional spirit and tactical acumen, where every pass and challenge echoes the enduring rivalry steeped in Algeria’s rich football heritage, promising a contest as charged and fluid as the cultural tapestry that shapes both teams."
+        }
+    ]
+}

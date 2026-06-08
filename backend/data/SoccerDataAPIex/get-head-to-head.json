@@ -1,0 +1,36 @@
+{
+    "team1": {
+        "id": 4137,
+        "name": "Manchester United"
+    },
+    "team2": {
+        "id": 4149,
+        "name": "Nottingham Forest"
+    },
+    "stats": {
+        "overall": {
+            "overall_games_played": 88,
+            "overall_team1_wins": 43,
+            "overall_team2_wins": 27,
+            "overall_draws": 18,
+            "overall_team1_scored": 162,
+            "overall_team2_scored": 109
+        },
+        "team1_at_home": {
+            "team1_games_played_at_home": 43,
+            "team1_wins_at_home": 26,
+            "team1_losses_at_home": 8,
+            "team1_draws_at_home": 9,
+            "team1_scored_at_home": 94,
+            "team1_conceded_at_home": 47
+        },
+        "team2_at_home": {
+            "team2_games_played_at_home": 45,
+            "team2_wins_at_home": 19,
+            "team2_losses_at_home": 17,
+            "team2_draws_at_home": 9,
+            "team2_scored_at_home": 62,
+            "team2_conceded_at_home": 68
+        }
+    }
+}

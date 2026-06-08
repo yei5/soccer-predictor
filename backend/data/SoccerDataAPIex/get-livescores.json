@@ -1,0 +1,1545 @@
+{
+    "count": 8,
+    "results": [
+        {
+            "league_id": 204,
+            "league_name": "Ligue 1",
+            "country": {
+                "id": 87,
+                "name": "algeria"
+            },
+            "is_cup": false,
+            "stage": [
+                {
+                    "stage_id": 13994,
+                    "stage_name": "Ligue 1: Regular Season",
+                    "matches": [
+                        {
+                            "id": 973947,
+                            "date": "05/06/2026",
+                            "time": "16:00",
+                            "teams": {
+                                "home": {
+                                    "id": 3834,
+                                    "name": "Khenchela"
+                                },
+                                "away": {
+                                    "id": 17932,
+                                    "name": "MB Rouisset"
+                                }
+                            },
+                            "stadium": null,
+                            "status": "pre-match",
+                            "minute": -1,
+                            "winner": "tbd",
+                            "has_extra_time": false,
+                            "has_penalties": false,
+                            "goals": {
+                                "home_ht_goals": 0,
+                                "away_ht_goals": 0,
+                                "home_ft_goals": 0,
+                                "away_ft_goals": 0,
+                                "home_et_goals": -1,
+                                "away_et_goals": -1,
+                                "home_pen_goals": -1,
+                                "away_pen_goals": -1
+                            },
+                            "events": [],
+                            "odds": {
+                                "match_winner": {},
+                                "over_under": {},
+                                "handicap": {}
+                            },
+                            "lineups": {
+                                "lineup_type": "None",
+                                "lineups": {
+                                    "home": [],
+                                    "away": []
+                                },
+                                "bench": {
+                                    "home": [],
+                                    "away": []
+                                },
+                                "sidelined": {
+                                    "home": [],
+                                    "away": []
+                                },
+                                "formation": {
+                                    "home": "None",
+                                    "away": "None"
+                                }
+                            },
+                            "match_preview": {
+                                "has_preview": false,
+                                "word_count": -1
+                            }
+                        },
+                        {
+                            "id": 973949,
+                            "date": "05/06/2026",
+                            "time": "16:00",
+                            "teams": {
+                                "home": {
+                                    "id": 3812,
+                                    "name": "Paradou AC"
+                                },
+                                "away": {
+                                    "id": 3814,
+                                    "name": "ES Setif"
+                                }
+                            },
+                            "stadium": null,
+                            "status": "pre-match",
+                            "minute": -1,
+                            "winner": "tbd",
+                            "has_extra_time": false,
+                            "has_penalties": false,
+                            "goals": {
+                                "home_ht_goals": 0,
+                                "away_ht_goals": 0,
+                                "home_ft_goals": 0,
+                                "away_ft_goals": 0,
+                                "home_et_goals": -1,
+                                "away_et_goals": -1,
+                                "home_pen_goals": -1,
+                                "away_pen_goals": -1
+                            },
+                            "events": [],
+                            "odds": {
+                                "match_winner": {},
+                                "over_under": {},
+                                "handicap": {}
+                            },
+                            "lineups": {
+                                "lineup_type": "None",
+                                "lineups": {
+                                    "home": [],
+                                    "away": []
+                                },
+                                "bench": {
+                                    "home": [],
+                                    "away": []
+                                },
+                                "sidelined": {
+                                    "home": [],
+                                    "away": []
+                                },
+                                "formation": {
+                                    "home": "None",
+                                    "away": "None"
+                                }
+                            },
+                            "match_preview": {
+                                "has_preview": false,
+                                "word_count": -1
+                            }
+                        },
+                        {
+                            "id": 973948,
+                            "date": "05/06/2026",
+                            "time": "16:00",
+                            "teams": {
+                                "home": {
+                                    "id": 8914,
+                                    "name": "ES Mostaganem"
+                                },
+                                "away": {
+                                    "id": 3833,
+                                    "name": "El Bayadh"
+                                }
+                            },
+                            "stadium": null,
+                            "status": "pre-match",
+                            "minute": -1,
+                            "winner": "tbd",
+                            "has_extra_time": false,
+                            "has_penalties": false,
+                            "goals": {
+                                "home_ht_goals": 0,
+                                "away_ht_goals": 0,
+                                "home_ft_goals": 0,
+                                "away_ft_goals": 0,
+                                "home_et_goals": -1,
+                                "away_et_goals": -1,
+                                "home_pen_goals": -1,
+                                "away_pen_goals": -1
+                            },
+                            "events": [],
+                            "odds": {
+                                "match_winner": {},
+                                "over_under": {},
+                                "handicap": {}
+                            },
+                            "lineups": {
+                                "lineup_type": "None",
+                                "lineups": {
+                                    "home": [],
+                                    "away": []
+                                },
+                                "bench": {
+                                    "home": [],
+                                    "away": []
+                                },
+                                "sidelined": {
+                                    "home": [],
+                                    "away": []
+                                },
+                                "formation": {
+                                    "home": "None",
+                                    "away": "None"
+                                }
+                            },
+                            "match_preview": {
+                                "has_preview": false,
+                                "word_count": -1
+                            }
+                        },
+                        {
+                            "id": 973950,
+                            "date": "05/06/2026",
+                            "time": "17:30",
+                            "teams": {
+                                "home": {
+                                    "id": 3501,
+                                    "name": "MC Alger"
+                                },
+                                "away": {
+                                    "id": 3825,
+                                    "name": "ASO Chlef"
+                                }
+                            },
+                            "stadium": null,
+                            "status": "pre-match",
+                            "minute": -1,
+                            "winner": "tbd",
+                            "has_extra_time": false,
+                            "has_penalties": false,
+                            "goals": {
+                                "home_ht_goals": 0,
+                                "away_ht_goals": 0,
+                                "home_ft_goals": 0,
+                                "away_ft_goals": 0,
+                                "home_et_goals": -1,
+                                "away_et_goals": -1,
+                                "home_pen_goals": -1,
+                                "away_pen_goals": -1
+                            },
+                            "events": [],
+                            "odds": {
+                                "match_winner": {},
+                                "over_under": {},
+                                "handicap": {}
+                            },
+                            "lineups": {
+                                "lineup_type": "None",
+                                "lineups": {
+                                    "home": [],
+                                    "away": []
+                                },
+                                "bench": {
+                                    "home": [],
+                                    "away": []
+                                },
+                                "sidelined": {
+                                    "home": [],
+                                    "away": []
+                                },
+                                "formation": {
+                                    "home": "None",
+                                    "away": "None"
+                                }
+                            },
+                            "match_preview": {
+                                "has_preview": false,
+                                "word_count": -1
+                            }
+                        },
+                        {
+                            "id": 973951,
+                            "date": "05/06/2026",
+                            "time": "19:00",
+                            "teams": {
+                                "home": {
+                                    "id": 3267,
+                                    "name": "Kabylie"
+                                },
+                                "away": {
+                                    "id": 3816,
+                                    "name": "Belouizdad"
+                                }
+                            },
+                            "stadium": null,
+                            "status": "pre-match",
+                            "minute": -1,
+                            "winner": "tbd",
+                            "has_extra_time": false,
+                            "has_penalties": false,
+                            "goals": {
+                                "home_ht_goals": 0,
+                                "away_ht_goals": 0,
+                                "home_ft_goals": 0,
+                                "away_ft_goals": 0,
+                                "home_et_goals": -1,
+                                "away_et_goals": -1,
+                                "home_pen_goals": -1,
+                                "away_pen_goals": -1
+                            },
+                            "events": [],
+                            "odds": {
+                                "match_winner": {},
+                                "over_under": {},
+                                "handicap": {}
+                            },
+                            "lineups": {
+                                "lineup_type": "projected",
+                                "lineups": {
+                                    "home": [
+                                        {
+                                            "player": {
+                                                "id": 46492,
+                                                "name": "M. Hadid"
+                                            },
+                                            "position": "Goalkeeper"
+                                        },
+                                        {
+                                            "player": {
+                                                "id": 52660,
+                                                "name": "Z. Belaïd"
+                                            },
+                                            "position": "Defender"
+                                        },
+                                        {
+                                            "player": {
+                                                "id": 64464,
+                                                "name": "R. Benchaa"
+                                            },
+                                            "position": "Defender"
+                                        },
+                                        {
+                                            "player": {
+                                                "id": 280854,
+                                                "name": "M. Bott"
+                                            },
+                                            "position": "Defender"
+                                        },
+                                        {
+                                            "player": {
+                                                "id": 280856,
+                                                "name": "M. Hamidi"
+                                            },
+                                            "position": "Defender"
+                                        },
+                                        {
+                                            "player": {
+                                                "id": 278253,
+                                                "name": "C. Boulkaboul"
+                                            },
+                                            "position": "Midfielder"
+                                        },
+                                        {
+                                            "player": {
+                                                "id": 288798,
+                                                "name": "Y. Izem"
+                                            },
+                                            "position": "Midfielder"
+                                        },
+                                        {
+                                            "player": {
+                                                "id": 40819,
+                                                "name": "B. Messaoudi"
+                                            },
+                                            "position": "Midfielder"
+                                        },
+                                        {
+                                            "player": {
+                                                "id": 150510,
+                                                "name": "B. Sarr"
+                                            },
+                                            "position": "Midfielder"
+                                        },
+                                        {
+                                            "player": {
+                                                "id": 280879,
+                                                "name": "L. Akhrib"
+                                            },
+                                            "position": "Attacker"
+                                        },
+                                        {
+                                            "player": {
+                                                "id": 280860,
+                                                "name": "O. Malki"
+                                            },
+                                            "position": "Attacker"
+                                        }
+                                    ],
+                                    "away": [
+                                        {
+                                            "player": {
+                                                "id": 51183,
+                                                "name": "F. Chaâl"
+                                            },
+                                            "position": "Goalkeeper"
+                                        },
+                                        {
+                                            "player": {
+                                                "id": 73829,
+                                                "name": "H. Benayada"
+                                            },
+                                            "position": "Defender"
+                                        },
+                                        {
+                                            "player": {
+                                                "id": 288432,
+                                                "name": "B. Boukerchaoui"
+                                            },
+                                            "position": "Defender"
+                                        },
+                                        {
+                                            "player": {
+                                                "id": 41326,
+                                                "name": "N. Khacef"
+                                            },
+                                            "position": "Defender"
+                                        },
+                                        {
+                                            "player": {
+                                                "id": 52836,
+                                                "name": "Y. Laouafi"
+                                            },
+                                            "position": "Defender"
+                                        },
+                                        {
+                                            "player": {
+                                                "id": 288580,
+                                                "name": "S. Boukhanchouche"
+                                            },
+                                            "position": "Midfielder"
+                                        },
+                                        {
+                                            "player": {
+                                                "id": 288437,
+                                                "name": "D. Kaassis"
+                                            },
+                                            "position": "Midfielder"
+                                        },
+                                        {
+                                            "player": {
+                                                "id": 288466,
+                                                "name": "A. Kelaleche"
+                                            },
+                                            "position": "Midfielder"
+                                        },
+                                        {
+                                            "player": {
+                                                "id": 288915,
+                                                "name": "J. C. Ahoua"
+                                            },
+                                            "position": "Midfielder"
+                                        },
+                                        {
+                                            "player": {
+                                                "id": 101370,
+                                                "name": "A. Belhocini"
+                                            },
+                                            "position": "Attacker"
+                                        },
+                                        {
+                                            "player": {
+                                                "id": 92460,
+                                                "name": "M. Hammouda"
+                                            },
+                                            "position": "Attacker"
+                                        }
+                                    ]
+                                },
+                                "bench": {
+                                    "home": [],
+                                    "away": []
+                                },
+                                "sidelined": {
+                                    "home": [],
+                                    "away": []
+                                },
+                                "formation": {
+                                    "home": "None",
+                                    "away": "None"
+                                }
+                            },
+                            "match_preview": {
+                                "has_preview": true,
+                                "word_count": 683,
+                                "excitement_rating": 9.11
+                            }
+                        },
+                        {
+                            "id": 973952,
+                            "date": "05/06/2026",
+                            "time": "19:00",
+                            "teams": {
+                                "home": {
+                                    "id": 3813,
+                                    "name": "Saoura"
+                                },
+                                "away": {
+                                    "id": 3815,
+                                    "name": "CS Constantine"
+                                }
+                            },
+                            "stadium": null,
+                            "status": "pre-match",
+                            "minute": -1,
+                            "winner": "tbd",
+                            "has_extra_time": false,
+                            "has_penalties": false,
+                            "goals": {
+                                "home_ht_goals": 0,
+                                "away_ht_goals": 0,
+                                "home_ft_goals": 0,
+                                "away_ft_goals": 0,
+                                "home_et_goals": -1,
+                                "away_et_goals": -1,
+                                "home_pen_goals": -1,
+                                "away_pen_goals": -1
+                            },
+                            "events": [],
+                            "odds": {
+                                "match_winner": {
+                                    "home": 1.77,
+                                    "draw": 3.02,
+                                    "away": 4.8
+                                },
+                                "over_under": {
+                                    "total": 2,
+                                    "over": 1.75,
+                                    "under": 1.88
+                                },
+                                "handicap": {
+                                    "market": -0.5,
+                                    "home": 1.83,
+                                    "away": 1.87
+                                },
+                                "last_modified_timestamp": 1780621235
+                            },
+                            "lineups": {
+                                "lineup_type": "None",
+                                "lineups": {
+                                    "home": [],
+                                    "away": []
+                                },
+                                "bench": {
+                                    "home": [],
+                                    "away": []
+                                },
+                                "sidelined": {
+                                    "home": [],
+                                    "away": []
+                                },
+                                "formation": {
+                                    "home": "None",
+                                    "away": "None"
+                                }
+                            },
+                            "match_preview": {
+                                "has_preview": false,
+                                "word_count": -1
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "league_id": 216,
+            "league_name": "Serie B",
+            "country": {
+                "id": 67,
+                "name": "brazil"
+            },
+            "is_cup": false,
+            "stage": [
+                {
+                    "stage_id": 14491,
+                    "stage_name": "Serie B",
+                    "matches": [
+                        {
+                            "id": 974336,
+                            "date": "05/06/2026",
+                            "time": "23:00",
+                            "teams": {
+                                "home": {
+                                    "id": 3967,
+                                    "name": "Operario PR"
+                                },
+                                "away": {
+                                    "id": 3963,
+                                    "name": "Juventude"
+                                }
+                            },
+                            "stadium": null,
+                            "status": "pre-match",
+                            "minute": -1,
+                            "winner": "tbd",
+                            "has_extra_time": false,
+                            "has_penalties": false,
+                            "goals": {
+                                "home_ht_goals": 0,
+                                "away_ht_goals": 0,
+                                "home_ft_goals": 0,
+                                "away_ft_goals": 0,
+                                "home_et_goals": -1,
+                                "away_et_goals": -1,
+                                "home_pen_goals": -1,
+                                "away_pen_goals": -1
+                            },
+                            "events": [],
+                            "odds": {
+                                "match_winner": {
+                                    "home": 2.22,
+                                    "draw": 2.86,
+                                    "away": 3.75
+                                },
+                                "over_under": {
+                                    "total": 2,
+                                    "over": 1.79,
+                                    "under": 1.95
+                                },
+                                "handicap": {
+                                    "market": -0.25,
+                                    "home": 1.85,
+                                    "away": 1.94
+                                },
+                                "last_modified_timestamp": 1780621234
+                            },
+                            "lineups": {
+                                "lineup_type": "projected",
+                                "lineups": {
+                                    "home": [
+                                        {
+                                            "player": {
+                                                "id": 78150,
+                                                "name": "Vagner"
+                                            },
+                                            "position": "Goalkeeper"
+                                        },
+                                        {
+                                            "player": {
+                                                "id": 59310,
+                                                "name": "J. Cuenú"
+                                            },
+                                            "position": "Defender"
+                                        },
+                                        {
+                                            "player": {
+                                                "id": 105765,
+                                                "name": "Moraes"
+                                            },
+                                            "position": "Defender"
+                                        },
+                                        {
+                                            "player": {
+                                                "id": 217216,
+                                                "name": "Gabriel Feliciano"
+                                            },
+                                            "position": "Defender"
+                                        },
+                                        {
+                                            "player": {
+                                                "id": 86818,
+                                                "name": "Klaus"
+                                            },
+                                            "position": "Defender"
+                                        },
+                                        {
+                                            "player": {
+                                                "id": 37746,
+                                                "name": "Boschilia"
+                                            },
+                                            "position": "Midfielder"
+                                        },
+                                        {
+                                            "player": {
+                                                "id": 57017,
+                                                "name": "Vinícius Diniz"
+                                            },
+                                            "position": "Midfielder"
+                                        },
+                                        {
+                                            "player": {
+                                                "id": 57021,
+                                                "name": "Índio"
+                                            },
+                                            "position": "Midfielder"
+                                        },
+                                        {
+                                            "player": {
+                                                "id": 57091,
+                                                "name": "Matheus Trindade"
+                                            },
+                                            "position": "Midfielder"
+                                        },
+                                        {
+                                            "player": {
+                                                "id": 57889,
+                                                "name": "Aylon"
+                                            },
+                                            "position": "Attacker"
+                                        },
+                                        {
+                                            "player": {
+                                                "id": 37661,
+                                                "name": "Pablo"
+                                            },
+                                            "position": "Attacker"
+                                        }
+                                    ],
+                                    "away": [
+                                        {
+                                            "player": {
+                                                "id": 42439,
+                                                "name": "Jandrei"
+                                            },
+                                            "position": "Goalkeeper"
+                                        },
+                                        {
+                                            "player": {
+                                                "id": 56597,
+                                                "name": "Marcos Paulo"
+                                            },
+                                            "position": "Defender"
+                                        },
+                                        {
+                                            "player": {
+                                                "id": 56508,
+                                                "name": "Messias"
+                                            },
+                                            "position": "Defender"
+                                        },
+                                        {
+                                            "player": {
+                                                "id": 56506,
+                                                "name": "Nathan"
+                                            },
+                                            "position": "Defender"
+                                        },
+                                        {
+                                            "player": {
+                                                "id": 57905,
+                                                "name": "Rodrigo Sam"
+                                            },
+                                            "position": "Defender"
+                                        },
+                                        {
+                                            "player": {
+                                                "id": 57319,
+                                                "name": "Raí"
+                                            },
+                                            "position": "Midfielder"
+                                        },
+                                        {
+                                            "player": {
+                                                "id": 57302,
+                                                "name": "Mandaca"
+                                            },
+                                            "position": "Midfielder"
+                                        },
+                                        {
+                                            "player": {
+                                                "id": 51128,
+                                                "name": "Lucas Mineiro"
+                                            },
+                                            "position": "Midfielder"
+                                        },
+                                        {
+                                            "player": {
+                                                "id": 79193,
+                                                "name": "Léo Índio"
+                                            },
+                                            "position": "Midfielder"
+                                        },
+                                        {
+                                            "player": {
+                                                "id": 57356,
+                                                "name": "Alan Kardec"
+                                            },
+                                            "position": "Attacker"
+                                        },
+                                        {
+                                            "player": {
+                                                "id": 98602,
+                                                "name": "M. Castro"
+                                            },
+                                            "position": "Attacker"
+                                        }
+                                    ]
+                                },
+                                "bench": {
+                                    "home": [],
+                                    "away": []
+                                },
+                                "sidelined": {
+                                    "home": [],
+                                    "away": []
+                                },
+                                "formation": {
+                                    "home": "None",
+                                    "away": "None"
+                                }
+                            },
+                            "match_preview": {
+                                "has_preview": true,
+                                "word_count": 726,
+                                "excitement_rating": 7.57
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "league_id": 230,
+            "league_name": "FA Cup",
+            "country": {
+                "id": 8,
+                "name": "england"
+            },
+            "is_cup": false,
+            "stage": [
+                {
+                    "stage_id": 14146,
+                    "stage_name": "Qualification",
+                    "matches": [
+                        {
+                            "id": 973367,
+                            "date": "30/08/2025",
+                            "time": "14:00",
+                            "teams": {
+                                "home": {
+                                    "id": 7302,
+                                    "name": "Widnes"
+                                },
+                                "away": {
+                                    "id": 7178,
+                                    "name": "Congleton Town"
+                                }
+                            },
+                            "stadium": null,
+                            "status": "live",
+                            "minute": 9,
+                            "winner": "tbd",
+                            "has_extra_time": false,
+                            "has_penalties": false,
+                            "goals": {
+                                "home_ht_goals": 0,
+                                "away_ht_goals": 0,
+                                "home_ft_goals": 0,
+                                "away_ft_goals": 0,
+                                "home_et_goals": -1,
+                                "away_et_goals": -1,
+                                "home_pen_goals": -1,
+                                "away_pen_goals": -1
+                            },
+                            "events": [],
+                            "odds": {
+                                "match_winner": {},
+                                "over_under": {},
+                                "handicap": {}
+                            },
+                            "lineups": {
+                                "lineup_type": "None",
+                                "lineups": {
+                                    "home": [],
+                                    "away": []
+                                },
+                                "bench": {
+                                    "home": [],
+                                    "away": []
+                                },
+                                "sidelined": {
+                                    "home": [],
+                                    "away": []
+                                },
+                                "formation": {
+                                    "home": "None",
+                                    "away": "None"
+                                }
+                            },
+                            "match_preview": {
+                                "has_preview": false,
+                                "word_count": -1
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "league_id": 234,
+            "league_name": "Ykkonen",
+            "country": {
+                "id": 25,
+                "name": "finland"
+            },
+            "is_cup": false,
+            "stage": [
+                {
+                    "stage_id": 14484,
+                    "stage_name": "Group Stage",
+                    "matches": [
+                        {
+                            "id": 975944,
+                            "date": "05/06/2026",
+                            "time": "15:30",
+                            "teams": {
+                                "home": {
+                                    "id": 2764,
+                                    "name": "KuPS Akatemia"
+                                },
+                                "away": {
+                                    "id": 4205,
+                                    "name": "KPV"
+                                }
+                            },
+                            "stadium": null,
+                            "status": "pre-match",
+                            "minute": -1,
+                            "winner": "tbd",
+                            "has_extra_time": false,
+                            "has_penalties": false,
+                            "goals": {
+                                "home_ht_goals": 0,
+                                "away_ht_goals": 0,
+                                "home_ft_goals": 0,
+                                "away_ft_goals": 0,
+                                "home_et_goals": -1,
+                                "away_et_goals": -1,
+                                "home_pen_goals": -1,
+                                "away_pen_goals": -1
+                            },
+                            "events": [],
+                            "odds": {
+                                "match_winner": {
+                                    "home": 1.43,
+                                    "draw": 4.65,
+                                    "away": 5.25
+                                },
+                                "over_under": {
+                                    "total": 3.5,
+                                    "over": 1.76,
+                                    "under": 1.95
+                                },
+                                "handicap": {
+                                    "market": -1.25,
+                                    "home": 1.8,
+                                    "away": 1.82
+                                },
+                                "last_modified_timestamp": 1780621248
+                            },
+                            "lineups": {
+                                "lineup_type": "None",
+                                "lineups": {
+                                    "home": [],
+                                    "away": []
+                                },
+                                "bench": {
+                                    "home": [],
+                                    "away": []
+                                },
+                                "sidelined": {
+                                    "home": [],
+                                    "away": []
+                                },
+                                "formation": {
+                                    "home": "None",
+                                    "away": "None"
+                                }
+                            },
+                            "match_preview": {
+                                "has_preview": false,
+                                "word_count": -1
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "league_id": 257,
+            "league_name": "J2 League",
+            "country": {
+                "id": 61,
+                "name": "japan"
+            },
+            "is_cup": false,
+            "stage": [
+                {
+                    "stage_id": 14759,
+                    "stage_name": "Final",
+                    "matches": [
+                        {
+                            "id": 980133,
+                            "date": "05/06/2026",
+                            "time": "10:00",
+                            "teams": {
+                                "home": {
+                                    "id": 10168,
+                                    "name": "Kamatamare Sanuki"
+                                },
+                                "away": {
+                                    "id": 11087,
+                                    "name": "Nagano Parceiro"
+                                }
+                            },
+                            "stadium": null,
+                            "status": "pre-match",
+                            "minute": -1,
+                            "winner": "tbd",
+                            "has_extra_time": false,
+                            "has_penalties": false,
+                            "goals": {
+                                "home_ht_goals": 0,
+                                "away_ht_goals": 0,
+                                "home_ft_goals": 0,
+                                "away_ft_goals": 0,
+                                "home_et_goals": -1,
+                                "away_et_goals": -1,
+                                "home_pen_goals": -1,
+                                "away_pen_goals": -1
+                            },
+                            "events": [],
+                            "odds": {
+                                "match_winner": {
+                                    "home": 2.34,
+                                    "draw": 3.08,
+                                    "away": 2.88
+                                },
+                                "over_under": {
+                                    "total": 2.5,
+                                    "over": 2.12,
+                                    "under": 1.66
+                                },
+                                "handicap": {
+                                    "market": -0.25,
+                                    "home": 2.04,
+                                    "away": 1.71
+                                },
+                                "last_modified_timestamp": 1780621262
+                            },
+                            "lineups": {
+                                "lineup_type": "None",
+                                "lineups": {
+                                    "home": [],
+                                    "away": []
+                                },
+                                "bench": {
+                                    "home": [],
+                                    "away": []
+                                },
+                                "sidelined": {
+                                    "home": [],
+                                    "away": []
+                                },
+                                "formation": {
+                                    "home": "None",
+                                    "away": "None"
+                                }
+                            },
+                            "match_preview": {
+                                "has_preview": false,
+                                "word_count": -1
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "league_id": 259,
+            "league_name": "K League 1",
+            "country": {
+                "id": 65,
+                "name": "south korea"
+            },
+            "is_cup": false,
+            "stage": [
+                {
+                    "stage_id": 14475,
+                    "stage_name": "K League 2",
+                    "matches": [
+                        {
+                            "id": 982310,
+                            "date": "05/06/2026",
+                            "time": "10:30",
+                            "teams": {
+                                "home": {
+                                    "id": 4489,
+                                    "name": "Busan IPark"
+                                },
+                                "away": {
+                                    "id": 4494,
+                                    "name": "Chungnam Asan"
+                                }
+                            },
+                            "stadium": null,
+                            "status": "pre-match",
+                            "minute": -1,
+                            "winner": "tbd",
+                            "has_extra_time": false,
+                            "has_penalties": false,
+                            "goals": {
+                                "home_ht_goals": 0,
+                                "away_ht_goals": 0,
+                                "home_ft_goals": 0,
+                                "away_ft_goals": 0,
+                                "home_et_goals": -1,
+                                "away_et_goals": -1,
+                                "home_pen_goals": -1,
+                                "away_pen_goals": -1
+                            },
+                            "events": [],
+                            "odds": {
+                                "match_winner": {
+                                    "home": 1.85,
+                                    "draw": 3.4,
+                                    "away": 3.87
+                                },
+                                "over_under": {
+                                    "total": 2.5,
+                                    "over": 1.94,
+                                    "under": 1.8
+                                },
+                                "handicap": {
+                                    "market": -0.75,
+                                    "home": 2.08,
+                                    "away": 1.69
+                                },
+                                "last_modified_timestamp": 1780621262
+                            },
+                            "lineups": {
+                                "lineup_type": "None",
+                                "lineups": {
+                                    "home": [],
+                                    "away": []
+                                },
+                                "bench": {
+                                    "home": [],
+                                    "away": []
+                                },
+                                "sidelined": {
+                                    "home": [],
+                                    "away": []
+                                },
+                                "formation": {
+                                    "home": "None",
+                                    "away": "None"
+                                }
+                            },
+                            "match_preview": {
+                                "has_preview": false,
+                                "word_count": -1
+                            }
+                        },
+                        {
+                            "id": 982311,
+                            "date": "05/06/2026",
+                            "time": "10:30",
+                            "teams": {
+                                "home": {
+                                    "id": 5208,
+                                    "name": "Daegu"
+                                },
+                                "away": {
+                                    "id": 11211,
+                                    "name": "Paju Citizen"
+                                }
+                            },
+                            "stadium": null,
+                            "status": "pre-match",
+                            "minute": -1,
+                            "winner": "tbd",
+                            "has_extra_time": false,
+                            "has_penalties": false,
+                            "goals": {
+                                "home_ht_goals": 0,
+                                "away_ht_goals": 0,
+                                "home_ft_goals": 0,
+                                "away_ft_goals": 0,
+                                "home_et_goals": -1,
+                                "away_et_goals": -1,
+                                "home_pen_goals": -1,
+                                "away_pen_goals": -1
+                            },
+                            "events": [],
+                            "odds": {
+                                "match_winner": {
+                                    "home": 1.44,
+                                    "draw": 4.25,
+                                    "away": 6
+                                },
+                                "over_under": {
+                                    "total": 2.5,
+                                    "over": 1.72,
+                                    "under": 2.02
+                                },
+                                "handicap": {
+                                    "market": -1.25,
+                                    "home": 2,
+                                    "away": 1.75
+                                },
+                                "last_modified_timestamp": 1780621263
+                            },
+                            "lineups": {
+                                "lineup_type": "None",
+                                "lineups": {
+                                    "home": [],
+                                    "away": []
+                                },
+                                "bench": {
+                                    "home": [],
+                                    "away": []
+                                },
+                                "sidelined": {
+                                    "home": [],
+                                    "away": []
+                                },
+                                "formation": {
+                                    "home": "None",
+                                    "away": "None"
+                                }
+                            },
+                            "match_preview": {
+                                "has_preview": false,
+                                "word_count": -1
+                            }
+                        },
+                        {
+                            "id": 982312,
+                            "date": "05/06/2026",
+                            "time": "10:30",
+                            "teams": {
+                                "home": {
+                                    "id": 4501,
+                                    "name": "Seongnam"
+                                },
+                                "away": {
+                                    "id": 11217,
+                                    "name": "Gimhae City"
+                                }
+                            },
+                            "stadium": null,
+                            "status": "pre-match",
+                            "minute": -1,
+                            "winner": "tbd",
+                            "has_extra_time": false,
+                            "has_penalties": false,
+                            "goals": {
+                                "home_ht_goals": 0,
+                                "away_ht_goals": 0,
+                                "home_ft_goals": 0,
+                                "away_ft_goals": 0,
+                                "home_et_goals": -1,
+                                "away_et_goals": -1,
+                                "home_pen_goals": -1,
+                                "away_pen_goals": -1
+                            },
+                            "events": [],
+                            "odds": {
+                                "match_winner": {
+                                    "home": 1.77,
+                                    "draw": 3.4,
+                                    "away": 4.35
+                                },
+                                "over_under": {
+                                    "total": 2.25,
+                                    "over": 1.9,
+                                    "under": 1.83
+                                },
+                                "handicap": {
+                                    "market": -0.75,
+                                    "home": 2.05,
+                                    "away": 1.75
+                                },
+                                "last_modified_timestamp": 1780621263
+                            },
+                            "lineups": {
+                                "lineup_type": "None",
+                                "lineups": {
+                                    "home": [],
+                                    "away": []
+                                },
+                                "bench": {
+                                    "home": [],
+                                    "away": []
+                                },
+                                "sidelined": {
+                                    "home": [],
+                                    "away": []
+                                },
+                                "formation": {
+                                    "home": "None",
+                                    "away": "None"
+                                }
+                            },
+                            "match_preview": {
+                                "has_preview": false,
+                                "word_count": -1
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "league_id": 306,
+            "league_name": "Premier League",
+            "country": {
+                "id": 32,
+                "name": "ukraine"
+            },
+            "is_cup": false,
+            "stage": [
+                {
+                    "stage_id": 14726,
+                    "stage_name": "Final",
+                    "matches": [
+                        {
+                            "id": 983420,
+                            "date": "05/06/2026",
+                            "time": "12:30",
+                            "teams": {
+                                "home": {
+                                    "id": 2889,
+                                    "name": "Oleksandria"
+                                },
+                                "away": {
+                                    "id": 6193,
+                                    "name": "Livyi Bereh"
+                                }
+                            },
+                            "stadium": null,
+                            "status": "pre-match",
+                            "minute": -1,
+                            "winner": "tbd",
+                            "has_extra_time": false,
+                            "has_penalties": false,
+                            "goals": {
+                                "home_ht_goals": 0,
+                                "away_ht_goals": 0,
+                                "home_ft_goals": 0,
+                                "away_ft_goals": 0,
+                                "home_et_goals": -1,
+                                "away_et_goals": -1,
+                                "home_pen_goals": -1,
+                                "away_pen_goals": -1
+                            },
+                            "events": [],
+                            "odds": {
+                                "match_winner": {
+                                    "home": 2.22,
+                                    "draw": 3.13,
+                                    "away": 3.15
+                                },
+                                "over_under": {
+                                    "total": 2.25,
+                                    "over": 1.9,
+                                    "under": 1.83
+                                },
+                                "handicap": {
+                                    "market": -0.25,
+                                    "home": 1.88,
+                                    "away": 1.83
+                                },
+                                "last_modified_timestamp": 1780621254
+                            },
+                            "lineups": {
+                                "lineup_type": "None",
+                                "lineups": {
+                                    "home": [],
+                                    "away": []
+                                },
+                                "bench": {
+                                    "home": [],
+                                    "away": []
+                                },
+                                "sidelined": {
+                                    "home": [],
+                                    "away": []
+                                },
+                                "formation": {
+                                    "home": "None",
+                                    "away": "None"
+                                }
+                            },
+                            "match_preview": {
+                                "has_preview": false,
+                                "word_count": -1
+                            }
+                        },
+                        {
+                            "id": 983421,
+                            "date": "05/06/2026",
+                            "time": "15:00",
+                            "teams": {
+                                "home": {
+                                    "id": 12612,
+                                    "name": "Kudrivka"
+                                },
+                                "away": {
+                                    "id": 6283,
+                                    "name": "Ahrobiznes Volochysk"
+                                }
+                            },
+                            "stadium": null,
+                            "status": "pre-match",
+                            "minute": -1,
+                            "winner": "tbd",
+                            "has_extra_time": false,
+                            "has_penalties": false,
+                            "goals": {
+                                "home_ht_goals": 0,
+                                "away_ht_goals": 0,
+                                "home_ft_goals": 0,
+                                "away_ft_goals": 0,
+                                "home_et_goals": -1,
+                                "away_et_goals": -1,
+                                "home_pen_goals": -1,
+                                "away_pen_goals": -1
+                            },
+                            "events": [],
+                            "odds": {
+                                "match_winner": {
+                                    "home": 1.6,
+                                    "draw": 3.8,
+                                    "away": 5.2
+                                },
+                                "over_under": {
+                                    "total": 2.5,
+                                    "over": 1.78,
+                                    "under": 2
+                                },
+                                "handicap": {
+                                    "market": -1,
+                                    "home": 2.02,
+                                    "away": 1.75
+                                },
+                                "last_modified_timestamp": 1780621254
+                            },
+                            "lineups": {
+                                "lineup_type": "None",
+                                "lineups": {
+                                    "home": [],
+                                    "away": []
+                                },
+                                "bench": {
+                                    "home": [],
+                                    "away": []
+                                },
+                                "sidelined": {
+                                    "home": [],
+                                    "away": []
+                                },
+                                "formation": {
+                                    "home": "None",
+                                    "away": "None"
+                                }
+                            },
+                            "match_preview": {
+                                "has_preview": false,
+                                "word_count": -1
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "league_id": 307,
+            "league_name": "Primera Division",
+            "country": {
+                "id": 81,
+                "name": "uruguay"
+            },
+            "is_cup": false,
+            "stage": [
+                {
+                    "stage_id": 14636,
+                    "stage_name": "Torneo Intermedio",
+                    "matches": [
+                        {
+                            "id": 983508,
+                            "date": "05/06/2026",
+                            "time": "22:00",
+                            "teams": {
+                                "home": {
+                                    "id": 5005,
+                                    "name": "Wanderers"
+                                },
+                                "away": {
+                                    "id": 5008,
+                                    "name": "Danubio"
+                                }
+                            },
+                            "stadium": null,
+                            "status": "pre-match",
+                            "minute": -1,
+                            "winner": "tbd",
+                            "has_extra_time": false,
+                            "has_penalties": false,
+                            "goals": {
+                                "home_ht_goals": 0,
+                                "away_ht_goals": 0,
+                                "home_ft_goals": 0,
+                                "away_ft_goals": 0,
+                                "home_et_goals": -1,
+                                "away_et_goals": -1,
+                                "home_pen_goals": -1,
+                                "away_pen_goals": -1
+                            },
+                            "events": [],
+                            "odds": {
+                                "match_winner": {
+                                    "home": 2.25,
+                                    "draw": 3.02,
+                                    "away": 3.2
+                                },
+                                "over_under": {
+                                    "total": 2,
+                                    "over": 1.78,
+                                    "under": 1.98
+                                },
+                                "handicap": {
+                                    "market": -0.25,
+                                    "home": 1.93,
+                                    "away": 1.84
+                                },
+                                "last_modified_timestamp": 1780621247
+                            },
+                            "lineups": {
+                                "lineup_type": "None",
+                                "lineups": {
+                                    "home": [],
+                                    "away": []
+                                },
+                                "bench": {
+                                    "home": [],
+                                    "away": []
+                                },
+                                "sidelined": {
+                                    "home": [],
+                                    "away": []
+                                },
+                                "formation": {
+                                    "home": "None",
+                                    "away": "None"
+                                }
+                            },
+                            "match_preview": {
+                                "has_preview": false,
+                                "word_count": -1
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
