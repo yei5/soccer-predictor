@@ -1,5 +1,11 @@
 # Soccer Predictor — Agente Híbrido de Predicción Deportiva
 
+**Integrantes:**
+- Yeison Rodriguez
+- Daniela Londoño
+- Isabella Huila
+- Danna Lopez
+
 Sistema inteligente que combina **Machine Learning**, **LangChain** y **Groq (Llama 3.3)** para predecir resultados de partidos de fútbol y ofrecer análisis deportivo interactivo.
 
 El frontend está construido en **React + Vite + Tailwind CSS**. El backend expone una **API REST con FastAPI**.
