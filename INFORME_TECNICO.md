@@ -6,8 +6,10 @@
 - Daniela Londoño
 - Isabella Huila
 - Danna Lopez
-**Curso:** IA2 — Semestre 8  
-**Versión del documento:** 1.0  
+
+
+**Curso:** IA2
+
 **Fecha:** Junio 2026
 
 ---

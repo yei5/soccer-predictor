@@ -244,4 +244,4 @@ Abre `http://localhost:5173` en el navegador.
 
 ---
 
-*Proyecto académico — IA2, Semestre 8*
+*Proyecto académico — IA2*
